@@ -1,0 +1,14 @@
+## Talking Glossary: Deletion mutation (1.5 min)
+
+https://www.genome.gov/genetics-glossary/Deletion
+
+**Abstract**: "Deletion is a type of mutation involving the loss of genetic material. It can be small, involving a single missing DNA base pair, or large, involving a piece of a chromosome."
+
+Note: Among evolutionary biologists, "deletion" usually means deletion of a single base; larger deletions are specified, e.g. "chromosomal deletion."  In order to recognize a deletion, there's needs to be some frame of reference, such as a consensus sequence, a reference genomic sequence, or other individuals in a multiple sequence alignment (MSA).  Deletions of all sizes can be useful for constructing phylogenies.
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/deletion.jpg
+Example of single base and chromosomal deletion.
+
+**Transcript:** "Deletion really means that something is missing. And as a geneticist talking about deletion it means something is missing of the genetic material. And it can be something small, just a base pair; it can be something larger; it can be part of a gene; it can be even larger; it can be an entire gene; or yet larger again, it can be part of the chromosome. And depending upon what it is, you have to look at it in different ways. You can find a deletion in a chromosome just by doing a cytogenetic or chromosome analysis, or a deletion in a gene you can find out by sequencing the DNA. So when you have a deletion, depending upon the size, it can have different effects. What was the most surprising to me was that just by having a deletion of one base pair, you can have the most severe birth defect, and sometimes by missing an entire chromosome, you don't even see all that much compared to just having a deletion of a small base pair. Different deletions can lead to different findings, and they can affect just behavior; they can affect how a child, how a person looks; they can affect a very severe problem that the child may die at birth; or they can affect something that just has to do with eye color, hair color, with weight or height of the person."
+
+Maximilian Muenke, M.D.

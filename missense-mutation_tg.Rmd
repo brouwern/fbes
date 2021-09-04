@@ -1,0 +1,13 @@
+## Talking Glossary: Missense Mutation (1.25 min)
+
+https://www.genome.gov/genetics-glossary/Missense-Mutation
+
+**Abstract**: "A missense mutation is when the change of a single base pair causes the substitution of a different amino acid in the resulting protein. This amino acid substitution may have no effect, or it may render the protein nonfunctional."
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/missense_mutation.jpg
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/missense_mutation.mp3
+
+**Transcript**: "A missense mutation is a mistake in the DNA which results in the wrong amino acid being incorporated into a protein because of change, that single DNA sequence change, results in a different amino acid codon which the ribosome recognizes. Changes in amino acid can be very important in the function of a protein. But sometimes they make no difference at all, or very little difference. Sometimes missense mutations cause amino acids to be incorporated, which make the protein more effective in doing its job. More frequently, it causes the protein to be less effective in doing its job. But this is really the grist of evolution, when missense mutations happen, and therefore small changes, frequently small changes in proteins, happen, and it happens to be that it improves the function of a protein. That will sometimes give the organism that has it a competitive advantage over its colleagues and be maintained in the population."
+
+Christopher P. Austin, M.D.

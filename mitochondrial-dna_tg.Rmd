@@ -1,0 +1,18 @@
+## Talking Glossary: Mitochondrial DNA (1.5 min)
+
+https://www.genome.gov/genetics-glossary/Mitochondrial-DNA
+
+**Abstract**: "Mitochondrial DNA is the small circular chromosome found inside mitochondria. The mitochondria are organelles found in cells that are the sites of energy production. The mitochondria, and thus mitochondrial DNA, are passed [almost always - but there are exceptions!] from mother to offspring."
+
+Note: Mitochondrial DNA is frequently used in population genetics and phylogenetics.   Its almost always (like 99.999999% of the time) inherited maternally which has useful properties when constructing phylogenies and tracing the history of populations.
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/mitochondrial_dna.jpg
+Mitochondria and mitochondrial genome.
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/mitochondrial_dna.mp3
+
+Animation: https://youtu.be/TiqTAfHhOCo
+
+**Transcript**: "Inside the mitochondrion is a certain type of DNA. That's different in a way from the DNA that's in the nucleus. This DNA is small and circular. It has only 16,500 or so base pairs in it. And it encodes different proteins that are specific for the mitochondrial. Now, remember those pathways that are within the mitochondrion for producing energy. Some of the enzymes in those pathways, and some of the proteins that are needed to function in those pathways, are produced by the mitochondrial DNA. The mitochondrial DNA is critically important for many of the pathways that produce energy within the mitochondria. And if there's a defect in some of those mitochondrial DNA bases, that is to say a mutation, you will have a mitochondrial disease, which will involve the inability to produce sufficient energy in things like the muscle and the brain, and the kidney. Mitochondrial DNA, unlike nuclear DNA, is inherited from the mother [almost always - but there are exceptions!], while nuclear DNA is inherited from both parents. So this is very helpful sometimes in determining how a person has a certain disorder in the family. Sometimes a disease will be inherited through the mother's line, as opposed to both parents. You can tell from a pedigree or a group of family history whether or not this is a mitochondrial disease because of that."
+
+William Gahl, M.D., Ph.D.

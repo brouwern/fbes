@@ -1,0 +1,29 @@
+## Guild
+
+https://en.wikipedia.org/wiki/Guild_(ecology).
+
+A guild (or ecological guild) is any group of species that exploit the same resources, or that exploit different resources in related ways.[1].[2].[3]. It is not necessary that the species within a guild occupy the same, or even similar, ecological niches.. An ecological niche is defined as the role an organism plays in its community, i.e. decomposer, primary producer, etc.[4]. Guilds are defined according to the locations, attributes, or activities of their component species. For example, the mode of acquiring nutrients, the mobility, and the habitat zones that the species occupy or exploit can be used to define a guild. The number of guilds occupying an ecosystem is termed its disparity. Members of a guild within a given ecosystem could be competing for resources, such as space or light, while cooperating in resisting wind stresses, attracting pollinators, or detecting predators, such as happens among savannah-dwelling antelope. and zebra..
+
+A guild does not typically have strict, or even clearly defined boundaries, nor does it need to be taxonomically cohesive. A broadly defined guild will almost always have constituent guilds; for example, grazing guilds will have some species that concentrate on coarse, plentiful forage, while others concentrate on low-growing, finer plants. Each of those two sub-guilds may be regarded as guilds in appropriate contexts, and they might, in turn, have sub-guilds in more closely selective contexts. Some authorities even speak of guilds in terms of a fractal. resource model.[5]. This concept arises in several related contexts, such as the metabolic theory of ecology., the scaling pattern of occupancy., and spatial analysis. in ecology, all of which are fundamental concepts in defining guilds.
+
+**Examples of guilds**:
+1. Graminoids (grasses, rushes and sedges)
+1. Plankton
+1. Shrubs
+1. Trees
+1. Vines
+1. Scavengers
+1. Browsers and terrestrial folivores (animals that eat leaves other than grass)
+1. Forest canopy folivores (flower-eaters)
+1. Grazers (grass-eating animals)
+1. Forbs (herbaceous plants that aren't grasses)
+1. Saprophytes (decomposers, such as fungi)
+1. Piscivores (fish-eaters)
+
+**References**:
+1. Simberloff, D; Dayan, T (1991). "The Guild Concept and the Structure of Ecological Communities". Annual Review of Ecology and Systematics. 22: 115–143. doi:10.1146/annurev.es.22.110191.000555.
+1. Encyclopædia Britannica article on guilds
+1. Williams, SE; Hero, JM (1998). "Rainforest frogs of the Australian Wet Tropics: guild classification and the ecological similarity of declining species". Proceedings: Biological Sciences. 265 (1396): 597–602. doi:10.1098/rspb.1998.0336. PMC 1689015. PMID 9881468.
+1. "the definition of ecological niche". Dictionary.com. Retrieved 2017-05-02.
+1. Guillerme; et al. (2020). "Disparities in the analysis of morphological disparity". Biology Letters. 16 (7). doi:10.1098/rsbl.2020.0199.
+1. Ritchie, Mark E. (2010). Scale, Heterogeneity, and the Structure and Diversity of Ecological Communities. Volume 45 of Monographs in population biology. Princeton: Princeton University Press. ISBN 978-0-691-09070-2.

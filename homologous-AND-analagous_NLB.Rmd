@@ -1,0 +1,28 @@
+# When things are homolgous AND analogous! 
+
+By: Dr. Brouwer
+
+The topics of homologous and analogous structures are often discussed in relation to convergent evolution and homoplasy.  It can be difficult to keep track of the exact definitions and when each term applies; in this short reading, I'll reiterate the difference between homologous and analogous features and discuss an important facet that is often not brought up when these things are discussed.
+
+In this [Mometrix video](https://www.youtube.com/watch?v=xQmb6B8c_TI) -- like many videos on the topic -- they discuss homologous structures by comparing the arm of a human, the wing of a bat, the flipper of a whale, and the front leg of a cat (1:31).  All of these anatomical structures contain the exact same bones, though they are used for different forms of movement. 
+
+<!-- image mometrix 1 -->
+
+To be more precise and clearer, instead of calling these arms, fins etc, they should call them forelimbs.  At the level of bone structure, these forelimbs are homologous.  Their homology is defined based on similar development and morphology and has nothing to do with function.  To me, to refer to these different organisms' forelimbs as arms, flippers etc. brings in aspects of function which aren't relevant to consideration of homology and can cause confusion when you start thinking about analogous structures and convergent evolution.
+
+<!-- Image mometrix 2 -->
+
+When they discuss analogous structures, they show the wings of bats, birds, and butterflies.    Bat wings and bird wings are analogous structures.  (Comparing vertebrate and insect wings is a trivial example but a useful starting point). Vetebrate wings have the same function - flight - but have key differences.  For example, bats create the wing using membranes derived from skin tissue (epidermis), while birds use feathers (which are derived from scales).  Moreover, bats spread out the membranes of their wings with their fingers, while birds spread out their feathers by making the feathers themselves stiff.  These structures are therefore analogous when we consider them from the perspective of anatomical function.   Therefore, while discussion of homology doesn't require considering function, discussion of analogy does.  In contrast, the flippers of whales and dolphins are not analogous because they share a common ancestor with flippers, and they function the same.
+
+
+From the perspective of natural selection, bat wings and bird wings are also an example of convergent evolution.  Starting from different initial types of organisms - terrestrial rodents and terrestrial dinosaurs, respectively - both bats and birds converged on the ecological strategy of flight.  That is, they converged on the strategy of using their forelimbs as wings.  (You could say birds and butterflies converged on the strategy of flight but this is trivial since they do very different things while flying; bats and birds, however, often compete for the same resources, are eaten by similar predators, etc).
+
+But wait - in our above example of forelimbs we had humans, whales, cats and birds, and we said these were homologous.  These are all tetrapods, and bats are tetrapods too, so shouldn't bat forelimbs also be homologous to these others?  Yes, bat forelimbs are homologous to all these others.  But we just said that bat wings and bird wings are analogous!  Yes, that's true too.  At the level of the forelimb bone structure, bird and bat forelimbs are homologous.  But at the level of the functional wings, they are analogous because they achieve their function - key to consideration of analogy and convergent evolution - very differently.
+
+ 
+
+Sadava et al (11th edition) puts it this way
+
+"Any features shared by two or more species that have been inherited from a common ancestor are said to be homologous.  Homologous features may be any heritable trait, including DNA sequences, protein structures, anatomical structures, and even some behavior patterns.  For example, all living vertebrates have a vertebral column, as did the ancestral vertebrate.  Therefore the vertebral column is judged to be homologous in all vertebrates.
+
+"...similar traits may evolve independently in different lineages, a phenomenon called convergent evolution.  For example, although the wing bones [I say forelimbs] of bats and birds are homologous, having been inherited from a common tetrapod ancestor, the wings of bats and birds are not homologous because they evolved independently from forelimbs of different nonflying ancestors.  Functionally similar structures that have independent evolutionary origins are called analogous characters." Sadava et al (11th edition, pg 451).

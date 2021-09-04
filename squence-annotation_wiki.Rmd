@@ -1,0 +1,24 @@
+## Sequence annotation 
+
+Adapted from Wikipedia, the free encyclopedia
+
+https://en.wikipedia.org/wiki/DNA_annotation 
+
+Note: Wikipedia titles this "DNA annotation."  In my experience this phrase is not used; rather we refer to sequence annotation, genome annotation, or just annotation.
+
+Genome annotation is the process of predicting the locations of genes and all of the coding regions in a genome and predicitng what those genes do. An annotation (irrespective of the context) is a note added by way of explanation or commentary. Once a genome is sequenced, it needs to be annotated to make sense of it.[1] 
+For DNA annotation, a previously unknown sequence representation of genetic material is enriched with information of intron -exon boundaries, regulatory sequences , gene names and protein products. This annotation is stored in genomic databases. 
+
+### Process
+Genome annotation consists of two main steps:
+
+1. predicting coding elements on the genome , a process called gene prediction 
+1. attaching biological information to these elements
+ 
+
+Structural genomic annotation consists of the identification of genomic elements.
+
+1. ORFs [open reading frames] and their localization
+1. predicted coding regions
+1. predicted location of regulatory motifs (e.g. promoters)
+1. Functional annotation consists of attaching biological information to genomic elements.

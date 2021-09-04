@@ -1,0 +1,18 @@
+## Genome assembly
+
+Adapted from Wikipedia
+https://en.wikipedia.org/wiki/Sequence_assembly 
+
+In bioinformatics, genome assembly refers to aligning and merging fragments from a longer DNA  sequence such as a whole genome in order to reconstruct the original sequence. This is needed as DNA sequencing  technology cannot read whole genomes in one go, but rather reads small pieces, called reads.
+
+The problem of sequence assembly can be compared to taking many copies of a book, passing each of them through different paper shredders with different cutters, and piecing the text of the book back together just by looking at the shredded pieces.
+
+
+<!-- Figure 1: Assemblers need copious sequencing data and informatic exertion to put the genome back together. Credit: Kelly Howe, Lawrence Berkeley Laboratory -->
+
+In sequence assembly, two different types can be distinguished:
+
+1, de-novo: assembling short reads to create full-length (sometimes novel) sequences, without using a template (see de novo sequence assemblers , de novo transcriptome assembly )
+1. using a reference sequence: assembling reads against an existing reference sequence, building a sequence that is similar but not necessarily identical to the backbone sequence
+
+In terms of complexity and time requirements, de-novo assemblies takes much more work.  Referring to the comparison drawn to shredded books in the introduction: when a reference sequence is available, one would have a very similar book as a template (perhaps with the names of the main characters and a few locations changed), de-novo assemblies present a more daunting challenge in that one would not know beforehand whether this would become a science book, a novel, a catalog, or even several books. Also, every shred would be compared with every other shred.

@@ -1,0 +1,20 @@
+## Comparative genomics
+
+Adapted from Wikipedia
+
+https://en.wikipedia.org/wiki/Comparative_genomics
+
+Comparative genomics is a field of biological research in which the genomic features of different organisms are compared.[2][3] The genomic features may include the DNA sequence, genes, gene order, regulatory sequences, and other genomic structural landmarks.[3] In this branch of genomics, whole genomes resulting from genome projects are compared to study basic biological similarities and differences as well as evolutionary relationships between organisms.[2][4][5] The major principle of comparative genomics is that common features of two organisms will often be encoded within the DNA that is evolutionarily conserved between them.[6] Therefore, comparative genomic approaches start with making some form of alignment of genome sequences and looking for similar sequences  in the aligned genomes and checking to what extent those sequences are conserved. Based on these, genome and molecular evolution are inferred and this may, in turn, be put in the context of, for example, evolution, ecology, or pathogenicity.
+
+Comparative genomics is now a standard component of the analysis of every new genome sequence.[2][8] With the explosion in the number of genome projects due to the advancements in DNA sequencing technologies[9] Comparative genomics has revealed high levels of similarity between closely related organisms, such as humans and chimpanzees, and, more surprisingly, similarity between seemingly distantly related organisms, such as humans and yeast.  
+
+The medical field benefits from the study of comparative genomics. Vaccine development in particular has experienced useful advances in technology due to genomic approaches to problems. In an approach known as reverse vaccinology, researchers can discover candidate antigens (proteins in pathogens that can be targeted by the immune system) for vaccine development by analyzing the genome of a pathogen or a family of pathogens.
+
+1* Darling A.E.; Miklós I.; Ragan M.A. (2008). "Dynamics of Genome Rearrangement in Bacterial Populations". PLOS Genetics. 4 (7): e1000128. doi:10.1371/journal.pgen.1000128. PMC 2483231. PMID 18650965. open access
+1. Touchman, J. (2010). "Comparative Genomics". Nature Education Knowledge. 3 (10): 13.
+1. Xia, X. (2013). Comparative Genomics. SpringerBriefs in Genetics. Heidelberg: Springer. doi:10.1007/978-3-642-37146-2. ISBN 978-3-642-37145-5. S2CID 5491782.
+1. Russel, P.J.; Hertz, P.E.; McMillan, B. (2011). Biology: The Dynamic Science (2nd ed.). Belmont, CA: Brooks/Cole. pp. 409–410.
+1. Primrose, S.B.; Twyman, R.M. (2003). Principles of Genome Analysis and Genomics (3rd ed.). Malden, MA: Blackwell Publishing.
+1. Hardison, R.C. (2003). "Comparative genomics". PLOS Biology. 1 (2): e58. doi:10.1371/journal.pbio.0000058. PMC 261895. PMID 14624258. open access
+1. Ellegren, H. (2008). "Comparative genomics and the study of evolution by natural selection". Molecular Ecology. 17 (21): 4586–4596. doi:10.1111/j.1365-294X.2008.03954.x. PMID 19140982. S2CID 43171654.
+1. Koonin, E.V.; Galperin, M.Y. (2003). Sequence - Evolution - Function: Computational approaches in comparative genomics. Dordrecht: Springer Science+Business Media.

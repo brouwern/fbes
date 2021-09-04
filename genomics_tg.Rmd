@@ -1,0 +1,8 @@
+## Talking Glossary: Genomics
+
+**Abstract**: "Genomics refers to the study of the entire genome of an organism whereas genetics refers to the study of a particular gene."
+
+**Transcript**: "Genomics refers to the study of the entire genome, essentially all the genes that can be found in an organism. It's in contrast to genetics which can study individual genes one at a time. A genomicist, or someone who studies genomes, studies all of the DNA and all of the sequence in an organism and makes conclusions based on all of it. Whereas a geneticist can study all of the DNA in an organism, but can also study one gene at a time. For example, you might study the genetics of a single gene and sequence that gene. If you wanted to study the genomics of an organism or a person you could sequence all of their genes and all of their DNA and look for changes and make comparisons with other individual's genomes."
+
+Lawrence C. Brody, Ph.D.
+

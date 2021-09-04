@@ -1,0 +1,73 @@
+## Taxa, Taxon, and clades: A Brief Primer
+
+By Nathan Brouwer
+
+The following reading discusses what biologists mean when we use the terms taxa, taxon and clade.  A few advanced topics are discussed that will be further detailed in future lessons.  Names of specific species, families, orders etc. are used as examples; you are not expected to memorize them.  A google-doc version of this file can be found here (Links to an external site.).
+
+ 
+
+**Key Vocab**:
+* Taxa
+* Taxon
+* Clade
+* Order
+* Taxonomic group
+* Primates
+ 
+
+**Advanced topics**:**
+* Monophyletic group
+* Non-monophyletic group
+ 
+## What is a “taxon”
+
+**Taxon** and **clade** refer to different kinds of biological groups.  **Taxa** is the plural of **taxon**.  A taxon (or **taxonomic group**) can refer to any species *or* group of species.  Humans, *Homo sapiens*, is a taxon.  We are the genus *Homo*, a larger taxon composed of humans and our close relatives, including Neanderthals (genus: *Homo*, species: *Homo neanderthalensis*).  We are part of the **family** Hominidae, a larger taxon which includes us, chimps and bonobos (genus *Pan*), gorillas (genus *Gorilla*), and orangutans (genus *Pongo*).  All primates are part of an **order**, which includes all the taxa mentioned previously as well as taxa such as monkeys, gibbons, and lemurs.  We can say all primates considered together are taxon (a group of species), which is composed of many taxa (many individual species).  
+
+The upshot: each level of the hierarchy is a taxon which contains multiple taxa:
+
+* Order: Primates
+* Family: Hominidae 
+* Genus: Homo
+* Species: *Homo sapiens*
+ 
+The word "taxa" is often used as a generic stand-in for species, family, or order.  I can say about my own research "I studied two taxa of plants" – that is, I studied two plant species, though it could also mean I studied two plant families, two plant orders, etc.  Someone who studies the phenomena of punctuated equilibrium can say "the number of taxa on earth increased dramatically during the Cambrian explosion."   A key way to remember this: Each of the branch tips on a phylogenetic tree is a taxon.  Often the tips of a tree are species, but not always.
+
+When using "taxa" you don't necessarily have to refer to the current evolutionary or phylogenetic understanding of the species you are talking about.  Most taxonomic groups were thought to reflect evolutionary relationships when they were first proposed, but subsequent information has indicated that the group isn’t necessarily coherent.  For historical reasons and convenience, these taxonomic groups are maintained.  
+
+For example, the taxonomic group **reptiles** includes lizards, snakes, crocodiles, and turtles.  These were once thought to be a cohesive group.  We now know that birds and crocodiles are **sister taxa** and that the group we call “reptiles” should include birds if it were to be evolutionarily consistent (see [here](https://en.wikipedia.org/wiki/Reptile#Phylogenetics_and_modern_definition) for a summary).  The field known as herpetology focuses on the biology of reptiles, as well as amphibians (frogs and salamanders).  This is a group of taxa that excludes birds and evolutionarily isn’t coherent.  Similarly, the taxonomic group of “fish” is problematic from an evolutionary perspective (The precise reasons for this are beyond the scope of this particular reading).
+
+One key point is that "taxa" and "taxon" do not have to refer to the species level - it could refer to subspecies, populations, or other levels of the hierarchy of biological classification.  It is most commonly used in reference to the level of species, but this isn’t necessary.
+
+## What is a clade?
+
+In contrast to taxon and taxa, **clade** has a very specific meaning - a clade is **all** of the taxa that descended from a common ancestor, *plus* the common ancestor.  Clade is synonymous with **monophyletic group**.  If you exclude one of the taxa that descended from a common ancestor you end up with what is called a **non-monophyletic group**.  “Reptiles” and “fish” are taxonomic groups (taxa) that are not clades because they don’t contain all of the descendants of their common ancestor and therefore are not evolutionarily coherent.
+
+ 
+
+**Glossary**:
+
+* Clade – a group composed of an ancestor and all of its descendants.
+* Monophyletic group -- a group composed of an ancestor and all of its descendants (=clade). Example: Reptilia is a monophyletic group if (and only if) it includes birds
+* Non-monophyletic group – a group composed of an ancestor and only some of its descendants, where the missing ones have been placed in another group. Example: “Reptilia” is a paraphyletic group if birds are excluded from it. The names of paraphyletic groups are often placed in quotation marks by convention.
+* Taxon – a named group and its constituent members. Normally a taxon will be a named clade. Phylogenetic definition (of a group) – a definition for a group that is based on common ancestry. Example 1: Tetrapoda is the group composed of the last common ancestor of living amphibians and amniotes and all taxa more closely related to that clade than to lungfish.
+
+
+
+ 
+
+## Further Reading: 
+
+For more on clades: [http://en.wikipedia.org/wiki/Clade](http://en.wikipedia.org/wiki/Clade)
+For more on taxa: [https://en.wikipedia.org/wiki/Taxon](https://en.wikipedia.org/wiki/Taxon)
+
+“In biology, a taxon (plural taxa), from taxonomy, is a group of one or more populations of an organism or organisms seen by taxonomists to form a unit.”
+ICZN (1999) International Code of Zoological Nomenclature.
+
+“A taxonomic unit, whether named or not: i.e. a population, or group of populations of organisms which are usually inferred to be phylogenetically related and which have characters in common which differentiate (q.v.) the unit (e.g. a geographic population, a genus, a family, an order) from other such units.”
+
+
+For information on non-monophyletic groups and why fish aren’t a clade, see these sites
+
+* http://ess17.blogspot.com/2008/06/q-can-you-please-explain-question-3-on.html 
+* https://en.wikipedia.org/wiki/Paraphyly 
+* https://en.wikipedia.org/wiki/Fish

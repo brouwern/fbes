@@ -1,0 +1,41 @@
+# Phylogenetics vocab
+
+Here are definitions of key terms related to phylogenetics. 
+
+**Apomorphy**: A character present in one or more species in a clade that was not present in the clade's common ancestor; an evolutionary novelty.  Also known as a derived character.  For a review of ancestral versus derived traits see this video . (Contrast with homplasy).
+
+**Autapomorphy**: A derived character state that is restricted to one taxon in a particular data set.  Apomorphies are often biologically interesting (like wings in birds) but actually have no value for building phylogenetic trees because they don't let you form clades.  Stated another way, autapomorphis are unique to a single taxon and don't allow you to group taxa into a clade.
+
+**Convergence**: The multiple and independent appearance in different lineages of similar evolutionary novelties (apomorphies).  Often happens due to similar ecological conditions and evolutionary forces.
+
+**Convergent evolution**: Similarity between species that is caused by a similar, but evolutionary independent, response to a common environmental problem (Figure 1).  Convergence can also occur at the molecular level where the same mutation occurs independently in two different lineages (Figure 2).  
+
+```{r, echo = F, fig.caption = "Morphological convergence.  Source: https://wp.biologos.org"}
+x <- "https://wp.biologos.org/wp-content/uploads/2018/10/venema_23_1.jpg"
+knitr::include_url(x)
+```
+
+
+```{r, echo = F, fig.caption = "Molecular convergence.  Source: https://wp.biologos.org"}
+x <- "https://wp.biologos.org/wp-content/uploads/2018/10/venema_22_7.jpg"
+knitr::include_url(x)
+```
+
+
+**Derived character**: A character present in one or more species in a clade that was not present in the clade's common ancestor; an evolutionary novelty; also known as an apomorphy.  (Contrast with ancestral character)
+
+**Homologous**: Describes characters derived from a common ancestor. (Contrast with analogous).
+
+**Homology**: Similarity between species that results from inheritance of traits from a common ancestor. (Contrast with analogy).  For more on homologies see [Understanding Evolution: Homologies](https://evolution.berkeley.edu/evolibrary/article/0_0_0/lines_04), [Homologies: anatomy](https://evolution.berkeley.edu/evolibrary/article/0_0_0/lines_05) , [Homologies: comparative anatomy](https://evolution.berkeley.edu/evolibrary/article/0_0_0/lines_06), and [Homologies: development](https://evolution.berkeley.edu/evolibrary/article/0_0_0/lines_07) .
+
+**Homoplasy**: Technical term which indicates similarity in the characters/traits found in different species that are unrelated to common ancestry.  Instead, they can be due to convergent evolution or reversal - not common descent.  An analogous trait is a type of homoplasy.  For an in-depth discussion of homology versus homoplasy see [this video](https://www.youtube.com/watch?v=W-APHQ94gog)  (Contrast with homology).
+
+**Lineage**: A group of ancestral and descendant populations, species, or other taxa that are descended from a common ancestor.  Synonymous with clade.
+
+**Outgroup**: A taxonomic group that diverged prior to the rest of the focal taxa (focal clade) in a phylogenetic analysis.
+
+**Parsimony**: A criterion for selecting among alternative patterns or explanations based on minimizing the total amount of change or complexity.  Can be approximate as "simpler answers are to be preferred."
+
+**Reversal / evolutionary reversal**: An event that results in the reversion of a derived trait (apomorphy) to the ancestral form.  This happens frequently at the DNA level, where a mutation can change a base to something different, then later another mutation changes it back.  This can be called a back mutation.  Reversals can also occur at the protein or morphological level.
+
+**Trait matrix (aka character matrix, character state matrix, data matrix)**: A table showing the state of each trait occurring in each taxon.  Generally, row represents taxa, columns represent characters, and numbers (usually just 0 or 1) represent character states.

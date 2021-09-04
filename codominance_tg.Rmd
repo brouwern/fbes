@@ -1,0 +1,16 @@
+## Talking Glossary: Codominance (0.5 min)
+
+
+
+Abstract: "Codominance is a relationship between two versions of a gene. Individuals receive one version of a gene, called an allele, from each parent. If the alleles are different, the dominant allele usually will be expressed, while the effect of the other allele, called recessive, is masked. In codominance, however, neither allele is recessive and the phenotypes of both alleles are expressed."
+
+
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/codominance.mp3
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/codominance.jpg
+Transcript
+
+Codominance means that neither allele can mask the expression of the other allele. An example in humans would be the ABO blood group, where alleles A and alleles B are both expressed. So if an individual inherits allele A from their mother and allele B from their father, they have blood type AB.
+
+[Suzanne Hart](https://www.genome.gov/staff/Suzanne-Hart-PhD), Ph.D.

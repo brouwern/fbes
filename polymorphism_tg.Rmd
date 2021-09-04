@@ -1,0 +1,8 @@
+## Talking Glossary: Polymorphism (1 min)
+
+**Abstract**: "Polymorphism involves one of two or more variants of a particular DNA sequence [and/or protein sequence]. The most common type of polymorphism involves variation at a single base pair [or amino acid]. Polymorphisms can also be much larger in size and involve long stretches of DNA. Called a single nucleotide polymorphism, or SNP (pronounced snip), scientists are studying how SNPs in the human genome correlate with disease, drug response, and other phenotypes."
+
+
+**Transcript**: "Polymorphism, by strict definitions which hardly anybody pays attention to anymore, is a place in the DNA sequence where there is variation, and the less common variant is present in at least one percent of the people of who you test. That is to distinguish, therefore, polymorphism from a rare variant that might occur in only one in 1,000 people. A polymorphism, it has to occur in at least one in 100 people. Polymorphisms could be not just single-letter changes like a C instead of T. They could also be something more elaborate, like a whole stretch of DNA, that is either present or absent. You might call that a copy number variant; those are all polymorphisms. But this is basically a general term to talk about diversity in genomes in a species."
+
+Francis S. Collins, M.D., Ph.D.

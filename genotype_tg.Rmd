@@ -1,0 +1,11 @@
+## Talking Glossary: Genotype
+
+**Abstract**: "A genotype is an individual's collection of genes. The term also can refer to the two alleles inherited for a particular gene. The genotype is expressed when the information encoded in the genes' DNA is used to make protein and RNA molecules. The expression of the genotype contributes to the individual's observable traits, called the phenotype."
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/genotype.mp3
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/genotype.jpg
+
+**Transcript**: "Genotype, very simply, is the version of a DNA sequence that an individual has. There's a large amount of DNA that we all have in common--of course, that's why we're all humans--but there's also a large amount of variation in sequence among individuals. And those specific differences in sequence, when usually applied to an individual gene, are called a genotype. These days, with the ability to test for many different sequence differences between individuals, genotype has taken on a connotation which frequently refers to a difference in sequence in a specific place in a specific gene. When used in that way, it's usually related to another term, called phenotype, which is the change in sequence to which the genotype refers. It is frequently, not always, but is frequently related to a change in an external trait; something that's observable, like height, hair color, or occurrence of disease. And so in that case, we talk about a genotype-phenotype correlation. Then what we're talking about is, well, here's a change in DNA sequence; why is it important? It's important because it leads to an observable change in a trait in a person. And that change in trait can be positive, it can be negative, or it could just be a difference."
+
+Christopher P. Austin, M.D.

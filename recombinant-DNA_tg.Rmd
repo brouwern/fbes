@@ -1,0 +1,14 @@
+## Talking Glossary: Recombinant DNA (0.5 min)
+
+National Human Genome Research Institute
+https://www.genome.gov/genetics-glossary/Recombinant-DNA
+
+**Introduction**: "Recombinant DNA (rDNA) is a technology that uses enzymes to cut and paste together DNA sequences of interest. The recombined DNA sequences can be placed into vehicles called vectors that ferry the DNA into a suitable host cell where it can be copied or expressed."
+
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/recombinant_DNA.mp3
+
+
+**Transcript**: "Pieces of DNA, such as human DNA, can be engineered in a fashion that allows them to be copied, or replicated, in bacteria or yeast. This involves attaching appropriate elements to a piece of DNA and then transferring into a bacterial or yeast cell, with those elements then instructing the bacterial or yeast cell to copy this DNA along with its own. This process is known as DNA cloning, with the resulting cloned DNA often referred to as recombinant DNA."
+
+[Eric D. Green](https://www.genome.gov/staff/Eric-D-Green-MD-PhD), M.D., Ph.D.

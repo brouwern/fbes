@@ -1,0 +1,16 @@
+## Talking Glossary: Vector (2 min)
+
+National Human Genome Research Institute
+
+Note: Usually refers to a plasmid, though in this entry they mention how it can also apply to viruses.
+
+Introduction: "A vector is any vehicle, often a virus or a plasmid [usually a plasmid in practice, and that's what we focus on in this class] that is used to ferry a desired DNA sequence into a host cell as part of a molecular cloning procedure. Depending on the purpose of the cloning procedure, the vector may assist in multiplying, isolating, or expressing the foreign DNA insert."
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/vector.mp3
+
+ 
+
+Transcript
+"A vector is a way to take a sequence of DNA, usually, and introduce it into another place. So what vectors do is allow you to propagate the DNA you're interested in, in the organism you've chosen to propagate it in. So the simplest one is the origins of recombinant DNA technology: They made copies of RNAs, and they were able to insert these into what is known as plasmids. Now, plasmids are kind of mini-bacterial chromosomes. They have a way to replicate themselves, and what makes it work is they also carry one or two genes on them that make them resistant to specific antibiotics. So if you can insert the gene you're interested in into this plasmid, you can select for the bacteria that have picked up that plasmid by growing them on an antibiotic that, if they haven't picked it up, would kill them. So that plasmid is a vector for taking a particular DNA sequence into a bacteria. And then you can isolate one colony of bacteria and clone that, grow that clone up, and that's how you would propagate that. There are other vectors that are larger and will have multiple sites of origins of replication, and these are known as bacterial artificial chromosomes, and they can handle much larger pieces of DNA. There are yeast artificial chromosomes that allow very large fragments of DNA to be grown in yeast cells. And recently, human artificial chromosome have been developed that allow enormous pieces of DNA to be introduced and propagated into human cells. So vector is really just a means to take a piece of DNA that you're interested in and insert it, and select for it, and identify it in the organism that you want to propagate it in."
+
+[David M. Bodine](https://www.genome.gov/staff/David-M-Bodine-PhD), Ph.D

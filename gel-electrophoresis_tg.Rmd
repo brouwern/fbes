@@ -1,0 +1,18 @@
+## Talking Glossary U03: Gel Electrophoresis ("3 min)
+
+AKA "running a gel
+
+National Human Genome Research Institute
+https://www.genome.gov/genetics-glossary/Electrophoresis
+
+Abstract:  "Electrophoresis is a laboratory technique used to separate DNA, RNA, or protein molecules based on their size and electrical charge. An electric current is used to move molecules to be separated through a gel. Pores in the gel work like a sieve, allowing smaller molecules to move faster than larger molecules. The conditions used during electrophoresis can be adjusted to separate molecules in a desired size range."
+
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/electrophoresis.mp3
+
+Image (Wikipedia): https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gel_electrophoresis_apparatus.JPG/188px-Gel_electrophoresis_apparatus.JPG
+
+ 
+**Transcript**: Electrophoresis is a very broadly used technique which, fundamentally, applies electric current to biological molecules, whether--they're usually DNA, they can be protein or RNA, too...and separates these fragments into pieces which are larger or smaller. It's used in a variety of applications... Everything from forensics for determining the identity of individuals that may have been involved in a crime, by linking their DNA pattern, their electrophoresis pattern, to one that's in a database. The whole basis by which the human genome was done is by something called capillary electrophoresis, by separating DNA into shorter pieces and then running them on these electrophoresis gels which allow the patterns of As, Cs, Ts, and Gs to be elucidated. They're also very important in protein research, and then genetic mutation research, because when proteins or DNA are mutated, they are frequently longer or shorter, and they therefore show up on an electrophoresis gel differently than normal, so many diagnostic tests are still done using electrophoresis, so it's a very widely used basic research technique, was very important for the understanding of gene and protein function, but it's now gotten into the area of clinical diagnostics and forensics as well. Electrophoresis is usually done in what looks like a box which has a positive charge at one end and a negative charge at the other. And as we all learned in basic physics, when you put a charged molecule into an environment like that, the negative molecules go to the positive charge, and vice versa. In looking at proteins in a gel, in one of these boxes, you usually take the entire protein, and you're looking at the entire length of the protein and seeing how big it is, and the bigger it is, the shorter it will migrate into the gel, so that the small proteins will end up at the bottom of the gel, because they have migrated the farthest, and the biggest ones will wind up staying at the top. In the case of DNA, DNA's a very long molecule, so you wouldn't want to run, for the most part, a whole DNA molecule from a cell onto a gel. It's just so big that it would never get into the gel, so what scientists do, and what people do in classrooms these days, is to chop up that DNA using things like inscription enzymes, which chop up the DNA into more manageable pieces in a reproducible way. And then those pieces, depending on how big the pieces are, migrate more or less into the gel father down the box from top to the bottom.
+
+Christopher P. Austin, M.D.

@@ -1,0 +1,17 @@
+## Talking Glossary: PCR - The Polymerase Chain Reaction (0.5 min)
+
+National Human Genome Research Institute
+
+https://www.genome.gov/genetics-glossary/Polymerase-Chain-Reaction
+
+**Abstract**: Polymerase chain reaction (PCR) is a laboratory technique used to amplify DNA sequences. The method involves using short DNA sequences called primers to select the portion of the genome to be amplified. The temperature of the sample is repeatedly raised and lowered to help a DNA replication enzyme copy the target DNA sequence. The technique can produce a billion copies of the target sequence in just a few hours.
+
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/polymerase_chain_reaction.mp3
+
+Image: https://www.genome.gov/sites/default/files/media/images/2021-01/polymerase_chain_reaction.jpg
+
+
+**Transcript**: "PCR, or the polymerase chain reaction, is a chemical reaction that molecular biologists use to amplify pieces of DNA. This reaction allows a single or a few copies of DNA to be replicated into millions or billions of copies. And by amplifying that DNA, it allows us to study that DNA molecule in detail in the laboratory."
+
+[Leslie G. Biesecker](https://www.genome.gov/staff/Leslie-G-Biesecker-MD), M.D.

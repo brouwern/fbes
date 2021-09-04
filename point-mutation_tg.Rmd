@@ -1,0 +1,22 @@
+## Talking Glossary: Point mutation (0.5 min)
+Point mutation
+
+https://www.genome.gov/genetics-glossary/Point-Mutation
+
+Abstract: "A point mutation is when a single base pair is altered. Point mutations can have one of three effects. First, the base substitution can be a silent mutation where the altered codon corresponds to the same amino acid. Second, the base substitution can be a missense mutation where the altered codon corresponds to a different amino acid. Or third, the base substitution can be a nonsense mutation where the altered codon corresponds to a stop signal."
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/point_mutation.jpg
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/point_mutation.mp3
+ 
+
+NOTE: Sources vary a little bit in how they define point mutations.  Like this glossary entry, I include indels (insertions / deletions) as a type of point mutation.
+
+
+
+ 
+
+Transcript:
+"Point mutations are a large category of mutations that describe a change in single nucleotide of DNA, such that that nucleotide is switched for another nucleotide, or that nucleotide is deleted, or a single nucleotide is inserted into the DNA that causes that DNA to be different from the normal or wild type gene sequence.
+
+Leslie G. Biesecker, M.D."

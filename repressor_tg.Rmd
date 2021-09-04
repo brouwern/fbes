@@ -1,0 +1,13 @@
+## Talking Glossary: Repressor (1 min)
+
+**Abstract**: "A repressor is a protein that turns off the expression of one or more genes. The repressor protein works by binding to the gene's promoter region, preventing the production of messenger RNA (mRNA)."
+
+ 
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/repressor.mp3 
+
+ 
+
+**Transcript**: "A repressor is a protein that has a negative effect on gene expression. So these usually are proteins that bind to DNA, and they either prevent the RNA transcription machinery from getting in there and transcribing that DNA, or they just slow it down. So repressors are present in cells where you don't want a particular gene expressed. So if the repressor cell recognizes a sequence in that gene, it will travel to there and keep that gene off in that cell. And this is how you prevent hemoglobin from being expressed in neurons, and how you would prevent liver enzymes from being expressed in red blood cells. Repressors are very difficult to study because it's much easier to study things that give you more of what you're looking for. But I think as we go along we're going to find they play as important a role in gene regulation as the activating proteins."
+
+David M. Bodine, Ph.D.

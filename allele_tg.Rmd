@@ -1,0 +1,19 @@
+## Talking Glossary: Allele (0.5 min)
+
+
+
+Note: This glossary definition focuses on the traditional definition of an allele.  More broadly, an allele is *any* genetic variant, whether it is in coding or non-coding DNA, impacts the phenotype of an organism or is neutral, involves a single base or many.  This is mentioned in the last line of the abstract.
+
+**Abstract**: "An allele is one of two or more versions of a gene [or, more generally, a locus]. An individual inherits two alleles for each gene [locus], one from each parent. If the two alleles are the same, the individual is homozygous for that gene [locus]. If the alleles are different, the individual is heterozygous. **Though the term allele was originally used to describe variation among genes, it now also refers to variation among non-coding DNA sequences** [emphasis added]."
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/allele.mp3
+ 
+Note Any time they say "gene", think "locus."
+
+**Transcript**: ""Allele" is the word that we use to describe the alternative form or versions of a gene. People inherit one allele for each autosomal gene [locus] from each parent, and we tend to lump the alleles into categories. Typically, we call them either normal or wild-type alleles, or abnormal, or mutant alleles."
+
+Leslie G. Biesecker, M.D.
+
+
+Image (from)
+https://rarediseases.info.nih.gov/files/glossary/english/allele_sm.jpg

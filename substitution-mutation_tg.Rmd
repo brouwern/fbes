@@ -1,0 +1,9 @@
+## Talking Glossary: Substitution mutation (1.75 min)
+
+https://www.genome.gov/genetics-glossary/Substitution
+
+**Abstract**: "Substitution is a type of mutation where one base pair is replaced by a different base pair. The term also refers to the replacement of one amino acid in a protein with a different amino acid."
+
+**Transcript:** "Subsititution refers to the replacement of one amino acid with another amino acid in a protein or the replacement of one nucleotide with another in DNA or RNA. Substitutions generally give rise to--or they always give rise to--either a polymorphism, that is, a difference between one person, one individual, in a population or another, or a special kind of polymorphism that we call a mutation. In either case, all individuals in the population originally had the same sequence of a gene. There were substitution events that resulted in a change in DNA sequence, which resulted in a change in RNA sequence, which then could result in a change in amino acid sequence. When that happens, that change in DNA sequence or amino acid sequence, or both, could have no effect on the protein, in which case the substitution is benign and has no functional effect. In other cases, if it changes the function of the protein, then it will be observed as either a functional polymorphism, something which increases the effectiveness of the protein product, and therefore would be evolutionarily selected for, or is bad--deleterious--in which case the person might die early and get evolutionarily selected against. Substitutions which lead to mutations, which lead to a deleterious outcome, that is the organism having difficulty with living or dying early, those we call mutations, but they're the result of a certain kind of a substitution."
+
+Christopher P. Austin, M.D.

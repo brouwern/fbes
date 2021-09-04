@@ -1,0 +1,10 @@
+## Talking Glossary: Mutagen (0.5 min)
+
+Abstract: "A mutagen is a chemical or physical phenomenon, such as ionizing radiation, that promotes errors in DNA replication. Exposure to a mutagen can produce DNA mutations that cause or contribute to diseases such as cancer."
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/mutagen.mp3
+
+Transcript: "A mutagen is a chemical or physical agent that has the ability to change our genetic code in a harmful way. The change in the genetic code is called a mutation, and throughout our lifetime we actually accumulate many mutations within our cells. And our body has the ability to recognize and repair these mutations. However, if some of these mutations escape repair, they can cause a normal cell to be transformed to become a tumor cell. Therefore, mutations are actually associated with the development of cancer."
+
+[Daphne W. Bell](https://irp.nih.gov/pi/daphne-bell), Ph.D.
+Photo: https://i.irp.nih.gov/pi/0012727407.jpg

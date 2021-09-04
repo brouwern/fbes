@@ -1,0 +1,15 @@
+## Talking Glossary: Phenotype
+
+https://www.genome.gov/genetics-glossary/Phenotype
+
+**Abstract**: "A phenotype is an individual's observable traits, such as height, eye color, and blood type. The genetic contribution to the phenotype is called the genotype. Some traits are largely determined by the genotype, while other traits are largely determined by environmental factors."
+
+Audio: 
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/phenotype.jpg
+ 
+
+**Transcript:** ""Phenotype" simply refers to an observable trait. "Pheno" simply means "observe" and comes from the same root as the word "phenomenon". And so it's an observable type of an organism, and it can refer to anything from a common trait, such as height or hair color, to presence or absence of a disease. Frequently, phenotypes are related and used--the term is used--to relate a difference in DNA sequence among individuals with a difference in trait, be it height or hair color, or disease, or what have you. But it's important to remember that phenotypes are equally, or even sometimes more greatly influenced by environmental effects than genetic effects. So a phenotype can be directly related to a genotype, but not necessarily. There's usually not a one-to-one correlation between a genotype and a phenotype. There are almost always environmental influences, such as what one eats, how much one exercises, how much one smokes, etc. All of those are environmental influences which will affect the phenotype as well."
+
+Christopher P. Austin, M.D.
+

@@ -1,0 +1,34 @@
+## Talking Glossary: Frameshift mutation (1.5 min)
+
+
+Abstract: "A frameshift mutation is a type of mutation involving the insertion or deletion of a nucleotide in which the number of deleted base pairs is not divisible by three. "Divisible by three" is important because the cell reads a gene in groups of three bases. Each group of three bases corresponds to one of 20 different amino acids used to build a protein. If a mutation disrupts this reading frame, then the entire DNA sequence following the mutation will be read incorrectly."
+
+ 
+
+ 
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/frameshift_mutation.mp3
+ 
+
+Transcript
+
+"A frameshift mutation is a particular type of mutation that involves either insertion or deletion of extra bases of DNA. Now, what's important here is the number three. The number of bases that are either added or subtracted can't be divisible by three. And that's important because the cell reads a gene in groups of three bases. Every group of three bases corresponds to one of the 20 different amino acids that are used by your body to make proteins. And keep in mind your body has a lot of proteins; everything from the material that makes up your skin, to the material that makes up your hair, to the digestive juices that help you digest that yummy lunch you just had. If a mutation disrupts one of those reading frames, so that the wrong amino acid is put in place, then the entire DNA sequence following the mutation will be disrupted or read incorrectly. Very often, what we see is a premature termination. Instead of the encoded protein being of a certain particular size, it'll end up being much shorter, and it won't be able to accomplish the role that's been set out for it."
+
+[Elaine A. Ostrander](https://irp.nih.gov/pi/elaine-ostrander), Ph.D.
+Photo: https://i.irp.nih.gov/pi/0011756295.jpg
+
+
+(see below for an optional video on Dr. Ostrander's work on dog genomics)
+
+Elaine A. Ostrander  
+
+ 
+Image
+https://www.genome.gov/sites/default/files/tg/en/illustration/frameshift_mutation.jpg
+Normal versus frameshift mutations
+Frameshift mutations
+  
+
+ 
+
+Here's an optional video about Dr. Ostrander's work on dog genomics:
+https://youtu.be/Tma8RdXADmU

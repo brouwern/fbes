@@ -1,0 +1,7 @@
+## Talking Glossary: DNA sequencing (0.75 min)
+
+**Introduction**: "DNA sequencing is a laboratory technique used to determine the exact sequence of bases (A, C, G, and T) in a DNA molecule. The DNA base sequence carries the information a cell needs to assemble protein and RNA molecules. DNA sequence information is important to scientists investigating the functions of genes. The technology of DNA sequencing was made faster and less expensive as a part of the Human Genome Project."
+
+**Transcript:** "DNA consists of a linear string of nucleotides, or bases, for simplicity, referred to by the first letters of their chemical names--A, T, C and G. The process of deducing the order of nucleotides in DNA is called DNA sequencing. Since the DNA sequence confers information that the cell uses to make RNA molecules and proteins, establishing the sequence of DNA is key for understanding how genomes work. The technology for DNA sequencing was made faster and less expensive as a part of the Human Genome Project. And recent developments have profoundly increased the efficiency of DNA sequencing even further."
+
+Eric D. Green, M.D., Ph.D.

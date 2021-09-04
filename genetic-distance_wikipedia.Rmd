@@ -1,0 +1,19 @@
+## Genetic distance
+
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Genetic_distance (Links to an external site.)
+
+Genetic distance is a measure of the genetic (Links to an external site.) divergence between species (Links to an external site.) or between populations (Links to an external site.) within a species, whether the distance measures time from common ancestor (Links to an external site.) or degree of differentiation.[2] (Links to an external site.) Populations with many similar alleles (Links to an external site.) have small genetic distances. This indicates that they are closely related and have a recent common ancestor.
+
+Genetic distance is useful for reconstructing the history of populations.  For example, sequences can be compared and genetic distances calculated.  These distances can then be used to build "distance-based" phylogenetic trees.
+
+[This section is interesting but you do not need to know the details].
+
+Evidence from genetic distance suggests that Sub-Saharan African and Eurasian people diverged about 100,000 years ago.[3] (Links to an external site.) Genetic distance is also used for understanding the origin of biodiversity (Links to an external site.). For example, the genetic distances between different breeds of domesticated animals are often investigated in order to determine which breeds should be protected to maintain genetic diversity.[4]
+
+**References**
+1. Cavalli-Sforza, L.L., Menozzi, P. & Piazza, A. (1994). The History and Geography of Human Genes. New Jersey: Princeton University Press.
+1. Nei, M. (1987). Molecular Evolutionary Genetics. (Chapter 9). New York: Columbia University Press.
+1. Ramachandran S, Deshpande O, Roseman CC, Rosenberg NA, Feldman MW, Cavalli-Sforza LL (November 2005). "Support from the relationship of genetic and geographic distance in human populations for a serial founder effect originating in Africa". Proc Natl Acad Sci U S A. 102 (44): 15942–7. doi:10.1073/pnas.0507611102. PMC 1276087. PMID 16243969.
+1. Ruane J (1999). "A critical review of the value of genetic distance studies in conservation of animal genetic resources". Journal of Animal Breeding and Genetics. 116 (5): 317–323. doi:10.1046/j.1439-0388.1999.00205.x.
+1. Nei, M. (1972). "Genetic distance between populations". Am. Nat. 106 (949): 283–292. doi:10.1086/282771. S2CID 55212907.

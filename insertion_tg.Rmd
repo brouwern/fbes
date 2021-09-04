@@ -1,0 +1,18 @@
+## Talking Glossary: Insertion mutation (1.25 min)
+
+genome.gov/genetics-glossary/Insertion
+
+**Abstract**: "Insertion is a type of mutation involving the addition of genetic material. An insertion mutation can be small, involving a single extra DNA base pair, or large, involving a piece of a chromosome."
+
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/insertion.jpg
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/insertion.mp3
+
+ 
+
+**Transcript** "Insertion really means that something has been stuck in there. And again, as a geneticist, when we think of an insertion, we think of a piece of DNA, and that can be small or large, being stuck in at a place where it really doesn't belong. So an insertion of just one base pair could lead to something that we call a frameshift. It shifts the reading of the three-base pair code and by that can throw off the entire protein, and by that can lead, for example, to a birth defect. Insertion can be larger, that, for example, there is an insertion of three base pairs, and then it will not throw off the frame, or it will not lead to a frameshift, and potentially is less harmful than having the insertion of just one base pair. And of course you can have an insertion of huge pieces of DNA. They can be so large that you could actually see it on the chromosome analysis, where all of the smaller insertions you would see only by sequencing the stretch of DNA."
+
+Maximilian Muenke, M.D.
+
+For an interview with Dr. Muenke, see: https://www.genome.gov/player/wyo8AF_3nz8/PL1ay9ko4A8sk0o9O-YhseFHzbU2I2HQQp

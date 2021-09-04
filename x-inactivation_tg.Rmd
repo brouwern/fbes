@@ -1,0 +1,21 @@
+## Talking Glossary: X-inactivation ("Lyonization"; 1.45 min))
+
+
+https://www.genome.gov/genetics-glossary/Lyonization (Links to an external site.)
+
+Abstract: "Lyonization is commonly known as X-inactivation. In mammals, males receive one copy of the X chromosome while females receive two copies. To prevent female cells from having twice as many gene products from the X chromosomes as males, one copy of the X chromosome in each female cell is inactivated. In placental mammals, the choice of which X chromosome is inactivated is random, whereas in marsupials it is always the paternal copy that is inactivated."
+
+Audio
+
+
+ 
+
+Transcript: "Lyonization is named after Mary Lyon, who was a geneticist who first figured out that in females who have two copies of the X chromosome, that one copy of each gene is turned off permanently in one chromosome or another. So that females, who have two copies of the X chromosome, and males, who have one copy of the X chromosome, are both human, and they can both operate fairly normally. So this process of turning off one copy of one gene or another on the X chromosome is called lyonization, and it happens from a series of essentially irreversible chemical modifications to one copy of the gene. The fascinating thing about this is that in so-called X-linked diseases, if the female inherits a gene responsible for an X-linked disease, and has one copy that's abnormal and one copy that's normal, the abnormal gene is almost always the one that's turned off. And the normal gene is almost always allowed to stay on. In X-linked diseases in males, of course, X-linked diseases manifest because they only have one X chromosome, and so those mutated genes have to show up. But the fascinating part about it, which we really don't understand, is how it is that the body knows if the female inherits one copy of a gene that is abnormal and would otherwise cause an X-linked disease if the normal copy was lyonized and turned off. That doesn't happen. The abnormal copy gets turned off, leaving the normal copy to function, and saving the female from having the disease."
+
+Christopher P. Austin, M.D.
+
+ 
+
+History:
+
+English geneticist Mary Lyons (https://en.wikipedia.org/wiki/Mary_F._Lyon) first characterized X-inactivation.  You can read a short article about her life here (https://www.nature.com/articles/518036a).

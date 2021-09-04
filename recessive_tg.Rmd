@@ -1,0 +1,12 @@
+## Talking Glossary: Recessive
+
+https://www.genome.gov/genetics-glossary/Recessive
+
+**Abstract**: "Recessive is a quality found in the relationship between two versions of a gene. Individuals receive one version of a gene, called an allele, from each parent. If the alleles are different, the dominant allele will be expressed, while the effect of the other allele, called recessive, is masked. In the case of a recessive genetic disorder, an individual must inherit two copies of the mutated allele in order for the disease to be present."
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/recessive.jpg
+
+
+**Transcript**: Recessive refers to a type of allele which will not be manifested in an individual unless both of the individual's copies of that gene have that particular genotype. It's usually referred to in conjunction with a Punnett square, other types of Mendelian genetics, and frequently contrasted with a dominant pattern of inheritance wherein if one has one copy of the gene, regardless of what the other copy is, that dominant allele will show itself. In the case of a recessive allele, the individual will show the trait which corresponds to that genotype only if both alleles are the same and have that particular recessive characteristic. Now, that recessive characteristic can be one of no functional consequence. This results in differences between individuals such as in eye color or hair color, but it can also refer to a disease. For instance, in cystic fibrosis, which is a very common Mendelian disorder, that disease exists only when there's a malfunction of both genes that correspond to cystic fibrosis. If there is only one mutation, then that recessive mutation can be compensated for by the normal allele. However, when the function of both are lost, then the disease manifests itself as a recessive disease where there is a loss of function and therefore observable disease.
+
+Christopher P. Austin, M.D.

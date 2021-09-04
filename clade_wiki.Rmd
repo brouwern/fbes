@@ -1,0 +1,59 @@
+# Clade
+
+Adapted from Wikipedia
+https://en.wikipedia.org/wiki/Clade
+
+A clade, also known as a monophyletic group, is a group of organisms  that are monophyletic —that is, composed of a common ancestor  and all its descendants .[4] . The common ancestor may be an individual, a population , a species  (extinct  or extant ), and so on. Clades are nested, one in another, as each branch in turn splits into smaller branches. These splits reflect evolutionary history  as populations diverged and evolved independently.  The term "clade" is also used with a similar meaning in other fields besides biology, such as historical linguistics. 
+
+A clade is by definition monophyletic , meaning that it contains one ancestor (which can be an organism, a population, or a species) and all its descendants.[note 1] [12] [13]  The ancestor can be known or unknown; any and all members of a clade can be extant or extinct.
+
+
+```{r fig.cap="Figure 1: Cladogram  (family tree) of a biological group. The last common ancestor  is the vertical line stem at the bottom. The blue and red subgroups are clades; each shows its common ancestor stem at the bottom of the subgroup branch. The green subgroup is not a clade; it is a non-monophyletic group , because it excludes the blue branch, even though it has also descended from a common ancestor. The green subgroup together with the blue one forms a clade again.", echo = F}
+knitr::include_url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Clade-grade_II.svg/640px-Clade-grade_II.svg.png")
+```
+
+Over the last few decades, the cladistic approach has revolutionized biological classification and revealed surprising evolutionary relationships among organisms.[5]  Taxonomists have worked to make the taxonomic system reflect evolution.  Taxonomists therefore try to avoid naming taxa  that are not clades; that is, taxa that are not monophyletic . Some of the relationships between organisms that the molecular biology arm of cladistics has revealed are that fungi  are closer relatives to animals than they are to plants, archaea  are now considered different from bacteria , and multicellular organisms may have evolved from archaea.[6]
+
+```{r , echo = F, fig.cap="Gavialidae, Crocodylidae and Alligatoridae are clade names that are here applied to a phylogenetic tree of crocodylians."}
+x <- "https://upload.wikimedia.org/wikipedia/commons/1/11/Cladogram_Crocodilia_NL.PNG"
+knitr::include_url(x)
+```
+
+
+Many commonly named groups, rodents  and insects  for example, are clades because, in each case, the group consists of a common ancestor with all its descendant branches. Rodents, for example, are a branch of mammals  that split off after the end of the period when the clade Dinosauria  stopped being the dominant terrestrial vertebrates  66 million years ago. The original population and all its descendants are a clade. The rodent clade corresponds to the order Rodentia, and insects to the class Insecta. These clades include smaller clades, such as chipmunk  or ant , each of which consists of even smaller clades. The clade "rodent" is in turn included in the mammal, vertebrate  and animal clades.
+
+## Clades and phylogenetic trees
+
+The science that tries to reconstruct phylogenetic trees and thus discover clades is called phylogenetics . The results of phylogenetic analyses are tree-shaped diagrams called phylogenies; they, and all their branches, are phylogenetic hypotheses.[14]
+
+## Terminology
+The relationship between clades can be described in several ways:
+
+1. A clade located within a clade is said to be nested within that clade. In the diagram, the hominoid  clade, i.e. the apes and humans, is nested within the primate clade.
+1. Two clades are sisters  (sister groups sister clades) if they have an immediate common ancestor. In the diagram, lemurs and lorises are sister clades, while humans and tarsiers are not.
+
+```{r, echo = F, fig.cap="Cladogram of modern primate groups; all tarsiers are haplorhines, but not all haplorhines are tarsiers; all apes are catarrhines, but not all catarrhines are apes; etc."}
+x <- "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Primate_cladogram.svg/556px-Primate_cladogram.svg.png"
+knitr::include_url(x)
+```
+
+
+## In popular culture
+
+An episode of [Elementary](https://en.wikipedia.org/wiki/Elementary_(TV_series))  is titled "[Dead Clade Walking](https://en.wikipedia.org/wiki/List_of_Elementary_episodes#ep38) " and deals with a case involving a rare fossil.
+
+## References
+
+1. Wells, John C. (2008). Longman Pronunciation Dictionary (3rd ed.). Longman. ISBN 978-1-4058-8118-0. "clade". Merriam-Webster Dictionary. Retrieved 19 April 2020.
+ Martin, Elizabeth; Hin, Robert (2008). A Dictionary of Biology. Oxford University Press.
+1. Cracraft, Joel; Donoghue, Michael J., eds. (2004). "Introduction". Assembling the Tree of Life. Oxford University Press. p. 1. ISBN 978-0-19-972960-9.
+1. Palmer, Douglas (2009). Evolution: The Story of Life. Berkeley: University of California Press. p. 13.
+1. Pace, Norman R. (18 May 2006). "Time for a change". Nature. 441 (7091): 289. Bibcode:2006Natur.441..289P. doi:10.1038/441289a. ISSN 1476-4687. PMID 16710401. S2CID 4431143.
+1. Dupuis, Claude (1984). "Willi Hennig's impact on taxonomic thought". Annual Review of Ecology and Systematics. 15: 1–24. doi:10.1146/annurev.es.15.110184.000245.
+1. Huxley, J. S. (1957). "The three types of evolutionary process". Nature. 180 (4584): 454–455. Bibcode:1957Natur.180..454H. doi:10.1038/180454a0. S2CID 4174182.
+1. Huxley, T.H. (1876): Lectures on Evolution. New York Tribune. Extra. no 36. In Collected Essays IV: pp 46-138 original text w/ figures
+1. Brower, Andrew V. Z. (2013). "Willi Hennig at 100". Cladistics. 30 (2): 224–225. doi:10.1111/cla.12057.
+1. ”Evolution 101". page 10. Understanding Evolution website. University of California, Berkeley. Retrieved 26 February 2016.
+1. "International Code of Phylogenetic Nomenclature. Version 4c. Chapter I. Taxa". 2010. Retrieved 22 September 2012.
+1. Envall, Mats (2008). "On the difference between mono-, holo-, and paraphyletic groups: a consistent distinction of process and pattern". Biological Journal of the Linnean Society. 94: 217. doi:10.1111/j.1095-8312.2008.00984.x.
+1. Nixon, Kevin C.; Carpenter, James M. (1 September 2000). "On the Other "Phylogenetic Systematics"". Cladistics. 16 (3): 298–318. doi:10.1111/j.1096-0031.2000.tb00285.x. S2CID 73530548.

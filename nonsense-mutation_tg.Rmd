@@ -1,0 +1,19 @@
+## Talking Glossary: Nonsene mutation 
+
+https://www.genome.gov/genetics-glossary/Nonsense-Mutation 
+
+Abstract: "A nonsense mutation is the substitution of a single base pair that leads to the appearance of a stop codon where previously there was a codon specifying an amino acid. The presence of this premature stop codon results in the production of a shortened, and likely nonfunctional, protein."
+
+ 
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/nonsense_mutation.mp3
+
+ 
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/nonsense_mutation.jpg
+ 
+
+Transcript
+
+"A nonsense mutation, or its synonym, a stop mutation, is a change in DNA that causes a protein to terminate or end its translation earlier than expected. This is a common form of mutation in humans and in other animals that causes a shortened or nonfunctional protein to be expressed."
+
+Leslie G. Biesecker, M.D.

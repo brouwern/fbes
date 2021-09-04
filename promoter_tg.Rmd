@@ -1,0 +1,11 @@
+## Talking Glossary: Promoter (1.5 min)
+
+**Abstract**: "A promoter is a sequence of DNA needed to turn a gene on or off. The process of transcription is initiated at the promoter. Usually found near the beginning of a gene, the promoter has a binding site for the enzyme used to make a messenger RNA (mRNA) molecule."
+
+**Audio**: https://www.genome.gov/sites/default/files/tg/en/narration/promoter.mp3
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/promoter.jpg
+
+**Transcript**: "The promoter region is the sequence typically referred to that's right upstream or right next to where a gene is about to be transcribed. It's the region where certain regulatory elements will bind; these are proteins that will bind to help RNA get transcribed. Now, "promoter", the term "promoter", can actually be a little bit of a nebulous term because it's not very exact. There are specific sequences that are generally found within a promoter region, but sometimes people refer to even extended promoter region that might include sequences that are farther upstream of the gene that might help enhance or repress the particular gene that's about to be transcribed in certain cell types. In general, if you think of the promoter as that piece of DNA that's just upstream of the transcription start site of a gene, that's pretty much what we refer to as promoters."
+
+Elliott Margulies, Ph.D.

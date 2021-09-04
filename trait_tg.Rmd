@@ -1,0 +1,28 @@
+## Talking Glossary: Trait (0.75 min)
+
+
+Abstract: "A trait is a specific characteristic of an organism. Traits can be determined by genes or the environment, or more commonly by interactions between them. The genetic contribution to a trait is called the genotype. The outward expression of the genotype is called the phenotype."
+
+ 
+
+Comments:
+In ecology and evolutionary biology, we often use the terms trait and character interchangeably.   In phylogenetics the term character is common.
+
+In phylogenetics, we organize our data in a grid called a trait matrix, or a character matrix.  We can consider phenotypic traits/phenotypic characters or sequences (genetic traits/genetic characters).  Often we refer to phenotypic traits as morphological traits if they have to do with the size, shape, structure, anatomy etc. of an organism.
+
+The definition here in the Talking Glossary highlights the fact that phenotypic traits are due to both genes and the environment.  When we do phylogenetics with phenotypic traits we strive to use consistent morphological differences that are due to genetics.  Because phenotypic traits like height, weight, color etc can vary so much due to the environment we use traits that can take on distinct states, like tails: monkeys have tails while humans don't; dogs long have tails but bears have very short ones.  We therefore draw a distinction between characters (e.g. tails) and character states (tail present, tail absent).
+
+ 
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/trait.mp3
+  
+
+ 
+
+Transcript
+"Trait is a specific characteristic of an individual. For example, their hair color or their blood type. Traits are determined by genes, and also they are determined by the interaction with the environment with genes. And remember that genes are the messages in our DNA that define individual characteristics. So the trait is the manifestation of the product of a gene that is coded for by the DNA. The word "phenotype" is sometimes used interchangeably with the word trait, and "phenotype" may also define a whole compendium of traits together."
+
+[Donna Krasnewich](https://www.nigms.nih.gov/about/Pages/krasnewich.aspx), M.D., Ph.D.   Program director in the Division of [Genetics and Molecular, Cellular, and Developmental Biology](https://www.nigms.nih.gov/about/overview/Pages/GMCDB.aspx), National Institutes of Health
+
+Photograph: https://www.nigms.nih.gov/about/PublishingImages/headshots/headshot-donna-krasnewich-small.jpg
+

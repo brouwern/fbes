@@ -1,0 +1,16 @@
+## Talking Glossary: Epigenetics
+
+https://www.genome.gov/genetics-glossary/Epigenetics
+
+**Abstract**: Epigenetics is an emerging field of science that studies heritable changes caused by the activation and deactivation of genes without any change in the underlying DNA sequence of the organism. The word epigenetics is of Greek origin and literally means over and above (epi) the genome.
+
+ 
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/epigenetics.mp3
+
+  
+
+**Transcript**: "Epigenetics is the study of changes in gene function that are heritable and that are not attributed to alterations of the DNA sequence. The term epi means above. It's a Greek prefix. It's also defined as on top of the basic DNA sequence. In general terms you can think of them like accent marks on words where the DNA is the language and the modifications are the accent marks. Epigenetic marks change the way genes are expressed. The promise of epigenetics is that it tells us about the cell, it's a way to define the cell that's different than just looking at gene expression levels. We could look at any kind of cell and it will have specialized epigenetic patterns. There are two types of modifications: DNA methylation and histone modification. DNA methylation goes awry in cancers so if we knew the normal pattern of methylation and then looked at the pattern of methylation in a tumor we could see what changes were taking place and we could see which genes were being affected."
+
+[Laura Elnitski](https://www.genome.gov/staff/Laura-Elnitski-PhD)
+
+Photograph: https://i.irp.nih.gov/pi/0012009821.jpg

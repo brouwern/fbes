@@ -1,0 +1,14 @@
+## Talking Glossary: Gene amplification (1.5 min)
+
+National Human Genome Research Institute
+
+**Introduction**: "Gene amplification is an increase in the number of copies of a gene sequence. ..... The term also can refer to polymerase chain reaction (PCR), a laboratory technique that is used by scientists to amplify gene sequences in a test tube."
+
+Note: Cloning and gene amplification are related concepts and are used interchangeably by some people.  In this course its most important to know generally what the terms are referring to (increasing the number of copies of gene); there will not be a question where, for example "cloning" is a correct answer but "gene amplification" is wrong.
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/gene_amplification.mp3
+
+
+Transcript: "Gene amplification is one of those clauses that means different things to different people, depending on how they look at it. At its simplest level, it means an increase in the number of copies of a gene sequence. Now, cancer cells sometimes make multiple copies of genes in response to erroneous signals from other cells or because of signals they're getting from the environment. So in that sense we think of it as a pretty negative term; it's heralding something that's not really supposed to have happened in the body that's clearly going on. But it's also just a very scientific term that doesn't have either a positive or a negative connotation. Because it refers to a laboratory technique called polymerase chain reaction, or PCR, and that's a technique which scientists can amplify a single gene in a test tube against the background of the three billion other bases that are floating around inside the test tube. That technique, PCR, or polymerase chain reaction, is really the backbone of a great deal of molecular biology that's being done today. As a matter of fact, the individual who discovered it ended up winning a Nobel Prize for it. So when you hear the phrase "gene amplification", think first about the context, and then think about the specifics."
+
+[Elaine A. Ostrander](https://www.genome.gov/staff/Elaine-A-Ostrander-PhD), Ph.D.

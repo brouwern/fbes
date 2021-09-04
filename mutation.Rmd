@@ -1,0 +1,13 @@
+## Talking Glossary: Mutation (0.5 min)
+
+**Abstract**: "A mutation is a change in a DNA sequence. Mutations can result from DNA copying mistakes made during cell division, exposure to ionizing radiation, exposure to chemicals called mutagens, or infection by viruses. Germ line mutations occur in the eggs and sperm and can be passed on to offspring, while somatic mutations occur in body cells and are not passed on."
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/mutation.mp3
+ 
+Image: Sequence-scale mutations ("micro") versus chromosome-scale mutations ("macro")
+https://www.genome.gov/sites/default/files/tg/en/illustration/mutation.jpg
+
+
+**Transcript**: "Mutation has been the source of many Hollywood movies, but it's really a simple process of a mistake made in a DNA sequence as it's being copied. Some of that's just the background noise that DNA copying is not perfect, and we should be glad of that or evolution couldn't operate. But mutation can also be induced by things like radiation or carcinogens in a way that can increase the risk of cancers or birth defects. But it's pretty simple; it's basically an induced misspelling of the DNA sequence. That's a mutation"
+
+Francis S. Collins, M.D., Ph.D.

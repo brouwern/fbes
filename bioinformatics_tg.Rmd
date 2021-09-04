@@ -1,0 +1,8 @@
+## Talking glossary: Bioinformatics
+
+https://www.genome.gov/genetics-glossary/Bioinformatics
+
+
+**Transcript**: "Bioinformatics is a field of computational science that has to do with the analysis of sequences of biological molecules. [It] usually refers to genes, DNA, RNA, or protein, and is particularly useful in comparing genes and other sequences in proteins and other sequences within an organism or between organisms, looking at evolutionary relationships between organisms, and using the patterns that exist across DNA and protein sequences to figure out what their function is. You can think about bioinformatics as essentially the linguistics part of genetics. That is, the linguistics people are looking at patterns in language, and that's what bioinformatics people do--looking for patterns within sequences of DNA or protein."
+
+Christopher P. Austin, M.D.

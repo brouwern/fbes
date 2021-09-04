@@ -1,0 +1,13 @@
+## Talking Glossary: Contig (0.75 min)
+
+https://www.genome.gov/genetics-glossary/Contig 
+
+**Abstract**: "A contig--from the word "contiguous"--is a series of overlapping DNA sequences used to make a physical map that reconstructs the original DNA sequence of a chromosome or a region of a chromosome. A contig can also refer to one of the DNA sequences used in making such a map."
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/contig.mp3
+
+Image: https://www.genome.gov/sites/default/files/tg/en/narration/contig.mp3
+ 
+**Transcript**: "A chromosome is a very long molecule of DNA. And it is very hard to study it at once, so what researchers do is they break it into smaller pieces and they sequence each one of those individual pieces first, and then they attempt to put it together to reconstruct the original chromosome sequence. A contig is the physical map, which results from putting together several little overlapping bits of DNA into a longer sequence. The contig is the physical map resulting from taking small pieces of DNA that overlap and putting them together into a longer sequence."
+
+[Belen Hurle](https://www.genome.gov/staff/Belen-Hurle-PhD), Ph.D.

@@ -1,0 +1,9 @@
+## Talking Glossary: Non-coding DNA (1 min)
+
+**Abstract**: "Non-coding DNA sequences do not code for amino acids. Most non-coding DNA lies between genes on the chromosome and has no known function. Other non-coding DNA, called introns, is found within genes. Some non-coding DNA plays a role in the regulation of gene expression."
+
+Note: Non-coding DNA (previously called junk DNA) makes up 98% of the genome.  It is very useful for evolutionary and phylogenetic studies because it is not directly impacted by natural selection.
+
+**Transcript**: "Non-coding DNA is just what it says; it's non-coding DNA. You can think of the genome as being split up into two parts. There's the stuff that codes for proteins. We call it coding DNA, and for a lack of a better term, the rest of genome is referred to as non-coding DNA. Some people will like to try and refer to this as junk DNA. But I would suggest otherwise, because this represents 98 percent of our genome sequence and it does all sorts of things, like regulate those genes to figure out where they should turn on, where they should turn off, how much we should turn on certain genes, how are we going to pack up the DNA into chromosomes, and so forth. And there are probably a whole host of functions that non-coding DNA does that we still don't know what it does yet."
+
+Elliott Margulies, Ph.D.

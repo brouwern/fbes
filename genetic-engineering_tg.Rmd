@@ -1,0 +1,12 @@
+## Talking Glossary: Genetic engineering (1.5 min)
+
+National Human Genome Research Institute
+https://www.genome.gov/genetics-glossary/Genetic-Engineering
+
+**Introduction**: "Genetic engineering is the process of using recombinant DNA (rDNA) technology to alter the genetic makeup of an organism. Traditionally, humans have manipulated genomes indirectly by controlling breeding and selecting offspring with desired traits. Genetic engineering involves the direct manipulation of one or more genes. Most often, a gene from another species is added to an organism's genome to give it a desired phenotype."
+
+NOTE: The use of the term genetic engineering varies a lot. In general, academic researchers seem to refer to things as "recombinant" when DNA from one organism has been added via a plasmid or another route to another organism.  "Genetically engineered" seems to be preferred by biotech companies, the media --  science fiction  Any time you change the genetic composition of an organism (e.g. putting syphilis protein into E. coli via a plasmid) you could refer to it as genetically engineered.  I will use the term recombinant though.
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/genetic_engineering.mp3
+ 
+**Transcript**: "Genetic engineering is a term that was first introduced into our language in the 1970s to describe the emerging field of recombinant DNA technology and some of the things that were going on. As most people who read textbooks and things know, recombinant DNA technology started with pretty simple things--cloning very small pieces of DNA and growing them in bacteria--and has evolved to an enormous field where whole genomes can be cloned and moved from cell to cell, to cell using variations of techniques that all would come under genetic engineering as a very broad definition. To me, genetic engineering, broadly defined, means that you are taking pieces of DNA and combining them with other pieces of DNA. [This] doesn't really happen in nature, but is something that you engineer in your own laboratory and test tubes. And then taking what you have engineered and propagating that in any number of different organisms that range from bacterial cells to yeast cells, to plants and animals. So while there isn't a precise definition of genetic engineering, I think it more defines an entire field of recombinant DNA technology, genomics, and genetics in the 2000s."

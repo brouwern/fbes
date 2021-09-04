@@ -1,0 +1,7 @@
+## GenBank
+
+From the blog post "[Introduction to GenBank and Bioinformatics with Python](https://medium.com/@wvsharber/introduction-to-genbank-and-bioinformatics-with-python-8a25a0f15e3f" (Sharber 2015)
+
+"GenBank [is] arguably one of the most important repositories of biological data in the world. GenBank, funded and operated by the National Institutes of Health (NIH) through the National Center for Biotechnology Information (NCBI), is a genetic sequence database. Researchers around the world submit their DNA sequences to GenBank to store and distribute them. Think of it as a huge library of DNA. Almost every DNA sequence that has ever been used in scientific research is stored in GenBank. Most academic publishers won’t accept your manuscript without you submitting your DNA to GenBank. Talk about open-source data! In case you’re curious, NCBI also hosts and produces other databases and tools, such as PubMed, which holds publication records, and BLAST, which is basically Google for sequence data.
+
+"A DNA sequence stored in GenBank consists of a record holding more than just the DNA itself. There will be lots of metadata along with it, such as an unique accession number, what organism the DNA originated from, who sequenced it, what publications reference the data, the translation of the DNA into a protein sequence (if it’s a coding region), etc. These data are critically important for using the sequence data with the appropriate biological context."

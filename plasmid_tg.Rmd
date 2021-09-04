@@ -1,0 +1,17 @@
+## Talking Glossary: Plasmid (1 min)
+
+National Human Genome Research Institute
+https://www.genome.gov/genetics-glossary/Plasmid 
+
+Intro: "A plasmid is a small, often circular DNA molecule found in bacteria and other cells. Plasmids are separate from the bacterial chromosome and replicate independently of it. They generally carry only a small number of genes, notably some associated with antibiotic resistance. Plasmids may be passed between different bacterial cells."
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/plasmid.jpg
+
+ 
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/plasmid.mp3
+
+ 
+
+Transcription:
+"Electrophoresis is a laboratory technique used to separate DNA, RNA, or protein molecules based on their size and electrical charge. An electric current is used to move molecules to be separated through a gel. Pores in the gel work like a sieve, allowing smaller molecules to move faster than larger molecules. The conditions used during electrophoresis can be adjusted to separate molecules in a desired size range."

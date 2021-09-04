@@ -1,0 +1,13 @@
+## Talking Glossary: Cloning (0.5 min)
+
+National Human Genome Research Institute
+https://www.genome.gov/genetics-glossary/Cloning
+
+**Introduction**: "Cloning is the process of making identical copies of an organism, cell, or DNA sequence. Molecular cloning is a process by which scientists amplify a desired DNA sequence. The target sequence is isolated, inserted into another DNA molecule (known as a vector), and introduced into a suitable host cell. Then, each time the host cell divides, it replicates the foreign DNA sequence along with its own DNA. Cloning also can refer to asexual reproduction."
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/cloning.mp3
+ 
+
+**Transcript**: "Cloning is a word we use to describe a molecular process of making millions or billions of copies of a single molecule. It's different from the uses of the terms "cellular cloning" or "organism cloning" that are used in the reproductive genetics universe. We use molecular cloning to amplify, or make many copies of, genes or proteins or other micro molecules that amplifies the signal and allows us to study these molecules in a laboratory".
+
+Leslie G. Biesecker, M.D.

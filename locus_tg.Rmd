@@ -1,0 +1,14 @@
+## Talking Glossary: Locus (1 min)
+
+https://www.genome.gov/genetics-glossary/Locus
+
+**Abstract**: "A locus is the specific physical location of a gene or other DNA sequence on a chromosome, like a genetic street address. The plural of locus is "loci"."
+
+NOTE: Locus can refer to a single nucleotide in DNA or 3 nucleotides making up a codon in polypeptides.
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/locus.mp3
+ 
+
+**Transcript**: "Locus" is a term that we use to tell us where on a chromosome a specific gene is. So it's really the physical location of a gene or of a DNA polymorphism on a chromosome. And it's sort of like a street address for people. And one of the things that we think about when we're thinking about genes and chromosomes is we may think of the chromosome as a country, and then a region of a chromosome would maybe be the city, and then we'll get down to a very specific area, which is the locus, and that would be equivalent to, say, a person's street address. And that's the street address of that gene. An important thing to remember is that the plural of "locus" is "loci", not "locuses".
+
+[Joan E. Bailey-Wilson](https://www.genome.gov/staff/Joan-E-Bailey-Wilson-PhD), Ph.D.

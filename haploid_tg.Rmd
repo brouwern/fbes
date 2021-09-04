@@ -1,0 +1,17 @@
+## Talking Glossary: Haploid (1.25 min)
+
+https://www.genome.gov/genetics-glossary/haploid
+
+**Abstract**: "Haploid is the quality of a cell or organism having a single set of chromosomes. Organisms that reproduce asexually are haploid. Sexually reproducing organisms are diploid (having two sets of chromosomes, one from each parent). In humans, only their egg and sperm cells are haploid."
+
+ 
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/haploid.mp3
+
+ 
+
+**Transcript**: "Haploid refers to a cell or an organism that has only a single set of chromosomes. This is to be contrasted with diploid. "Di" means two, of course. So most animal cells and plant cells are diploid. Then they're diploid in part because they got one chromosome from their mother and one chromosome from their father, therefore making them diploid. A haploid cell only has one set of chromosomes, and most of the time that refers to the so-called sex cells, either eggs or sperm. And these are [a] critical transition from a diploid cell to a haploid cell to allow normal reproduction to occur, so that when these two haploid cells come together with a single set of genetic information--single chromosomes--they can come together into a so-called zygote made of when the egg cell and the sperm cell come together that then reconstitutes a diploid cell, which can then become a new individual."
+
+Christopher P. Austin, M.D.
+
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/haploid.jpg

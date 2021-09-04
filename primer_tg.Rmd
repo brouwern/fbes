@@ -1,0 +1,17 @@
+## Talking Glossary U03: Primer (0.5 min) 
+
+National Human Genome Research Institute
+
+Introduction: "A primer is a short, single-stranded DNA sequence used in the polymerase chain reaction (PCR) technique. In the PCR method, a pair of primers is used to hybridize with the sample DNA and define the region of the DNA that will be amplified. Primers are also referred to as oligonucleotides."
+
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/primer.jpg
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/primer.mp3
+ 
+
+
+Transcript
+"Primer refers to a small set of nucleotides of DNA, typically 18 to 24 base pairs in length. And a primer can be used for a multitude of other experimental processes. You can use primer in PCR to target a locus to allow for amplification for further analysis. You'd use a primer for sequencing a sequencing reaction where you want to target a very specific region and then do analysis in the extension of that DNA molecule.
+
+[Stacie Loftus](https://www.genome.gov/staff/Stacie-Loftus-PhD), Ph.D.

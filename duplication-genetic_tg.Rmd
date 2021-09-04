@@ -1,0 +1,14 @@
+## Talking Glossary: Duplication (0.75 min)
+
+**Abstract**: "Duplication is a type of mutation that involves the production of one or more copies of a gene or region of a chromosome. Gene and chromosome duplications occur in all organisms, though they are especially prominent among plants. Gene duplication is an important mechanism by which evolution occurs."
+
+Note: in introductory biology courses we typically focus on duplication of large portions of chromosomes or duplication of entire chromosmes.
+
+ 
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/duplication.jpg
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/duplication.mp3
+
+Transcript: "Duplications occur when there is more than one copy of a specific stretch of DNA. This can occur in several different contexts. During a disease process, extra copies of the gene can contribute to a cancer. Genes can also duplicate through evolution, where one copy can continue the original function and the other copy of the gene produces a new function. On occasion, whole chromosomes are duplicated. In humans this causes disease. Throughout evolution, there have been several occasions, both in fish and plants, where whole genomes have been duplicated."
+
+Lawrence C. Brody, Ph.D.

@@ -1,0 +1,14 @@
+## Talking Glossary: Germline (1.25 min)
+
+https://www.genome.gov/genetics-glossary/germ-line
+
+Abstract: "A germ line is the sex cells (eggs and sperm) that are used by sexually reproducing organisms to pass on genes from generation to generation. Egg and sperm cells are called germ cells, in contrast to the other cells of the body that are called somatic cells."
+
+ 
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/germ_line.jpg
+ 
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/germ_line.mp3
+
+Transcript: "Germ line actually refers to the sex cells of an organism. And it does seem like a bit of a strange term, but it actually refers not just to mammals, but to any living organism that uses sex to reproduce, and that includes plants. And so it's a rather generic term which refers to the cells in the sexual organ, and those cells will either be making sperm or eggs. And that sperm be could, of course, be pollen instead of what you traditionally think of as sperm. And the key important aspect of germ line is this is where genetic information is transferred from one generation to the next. And it's inherited both from the female and the male of the species, so this is where all the action in terms of genetics is happening. And when those organisms grow up they, of course, are not comprised primarily of germ cells. Most of the body is consisted of somatic cells. But the key issue in terms of evolution, in terms of inheritance, all go through the germ line."
+
+Shawn Burgess, Ph.D.

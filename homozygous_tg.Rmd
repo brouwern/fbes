@@ -1,0 +1,13 @@
+## Talking Glossary: Homozygous
+
+https://www.genome.gov/genetics-glossary/homozygous (Links to an external site.)
+
+**Abstract**: "Homozygous is a genetic condition where an individual inherits the same alleles for a particular gene from both parents."
+
+Audio: https://www.genome.gov/sites/default/files/media/audio/2019-04/homozygous_narration.mp3
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/homozygous.jpg
+
+**Transcript**: "Homozygous describes the genetic condition or the genetic state where an individual has inherited the same DNA sequence for a particular gene from both their biological mother and their biological father. It's often used in the context of disease. We talk about a situation where an individual has inherited a mutant allele or an error in DNA sequence from their mother and they have inherited the identical mutant allele from their father. We would then say that individual is homozygous for that mutation. They have two identical copies of the deleterious version of that gene and, as a result, they are then going to be predisposed to the genetic condition the gene codes for."
+
+[Amalia S. Dutra](https://en.wikipedia.org/wiki/Amalia_Dutra), Ph.D.

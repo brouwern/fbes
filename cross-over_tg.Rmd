@@ -1,0 +1,16 @@
+## Talking Glossary - Foundations 1 Review: Crossing over
+
+Abstract: "Crossing over is the swapping of genetic material that occurs in the germ line. During the formation of egg and sperm cells, also known as meiosis, paired chromosomes from each parent align so that similar DNA sequences from the paired chromosomes cross over one another. Crossing over results in a shuffling of genetic material and is an important cause of the genetic variation seen among offspring."
+
+ 
+
+Audio: 
+https://www.genome.gov/sites/default/files/tg/en/narration/crossing_over.mp3
+
+**Transcript**: "Crossing over is a biological occurrence that happens during meiosis when the paired homologs, or chromosomes of the same type, are lined up. In meiosis, they're lined up on the meiotic plates, [as they're] sometimes called, and those paired chromosomes then have to have some biological mechanism that sort of keeps them together. And it turns out that there are these things called chiasmata, which are actually where strands of the duplicated homologous chromosomes break and recombine with the same strand of the other homolog. So if you have two Chromosome 1s lined up, one strand of one Chromosome 1 will break and it will reanneal with a similar breakage on the other Chromosome 1. So that then the new chromosome that will happen will have part of, say, the maternal Chromosome 1 and the paternal Chromosome 1, where maternal and paternal means where that person got their Chromosomes 1s from, their one or their two. Therefore, the child that's formed out of one of those Chromosome 1s now has a piece of his or her grandmother's Chromosome 1 and a piece of his or her grandfather's Chromosome 1. And it's this crossing over that lets recombination across generations of genetic material happen, and it also allows us to use that information to find the locations of genes."
+
+ 
+
+[Joan E. Bailey-Wilson](https://www.genome.gov/staff/Joan-E-Bailey-Wilson-PhD), Ph.D
+
+Photo: https://i.irp.nih.gov/pi/0010100622.jpg

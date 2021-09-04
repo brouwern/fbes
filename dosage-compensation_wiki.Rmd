@@ -1,0 +1,14 @@
+## Sex-Chromosome Dosage compensation
+
+[Adapted from Wikipedia](https://en.wikipedia.org/wiki/Sex-Chromosome_Dosage_compensation )
+
+Dosage compensation is the process by which organisms equalize the expression of genes between individuals with different sex chromosome karyotypes (e.g. XX versus XY).   Across species, different "sexes"  are often characterized by different types and numbers of sex chromosomes . In order to neutralize the large difference in gene dosage  produced by differing numbers of sex chromosomes, various evolutionary branches  have acquired various methods to equalize gene expression .  Because sex chromosomes contain different numbers of genes , different species of organisms have developed different mechanisms to cope with this inequality. Replicating the actual gene is impossible; thus organisms instead equalize the expression from each gene. For example, in humans , XX individuals silence the transcription of one X chromosome  of each pair, and transcribe all information from the other, expressed X chromosome. Thus, human XX individuals have the same number of expressed X-linked genes as do human XY individuals, with both having essentially one X chromosome per cell, from which to transcribe and express genes.  This is called  X-inactivation.  In each XX cell, one of the two X chromosomes is randomly inactivated.
+
+Other lineages have evolved different mechanisms to cope with the differences in gene copy numbers between the sexes that are observed on sex chromosomes. Some lineages have evolved upregulation mechanisms which restores expression of X-specific genes in the heterogametic sex (e.g. XY) to the same levels observed in the ancestor prior to the evolution of the sex chromosome.
+
+
+### Random inactivation of one X in XX individuals
+One logical way to equalize gene expression amongst XX and XY that follow a XX/XY sex differentiation scheme would be to decrease or altogether eliminate the expression of one of the X chromosomes in an XX, (homogametic)  individual, such that both XX and XY individuals express only one X chromosome. This is the case in many mammalian organisms, including humans and mice.[1  This process involves histone  tail modifications, DNA methylation  patterns, and reorganization of large-scale chromatin  structure.  In spite of these extensive modifications, not all genes along the X chromosome are subject to X-inactivation.
+
+### Two-fold increased transcription of a single X in XY individuals
+Another mechanism common for achieving equal X-related genetic expression between XX and XY indviduals involves two-fold increased transcription of a single X chromosome in XY individuals. Thus, heterogametic organisms (XY) with one X chromosome may match the level of expression achieved in homogametic individuals with two active X chromosomes. This mechanism is observed in Drosophila.

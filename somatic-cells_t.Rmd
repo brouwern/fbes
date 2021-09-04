@@ -1,0 +1,11 @@
+## Talking glossary: Somatic cells (0.75 min)
+
+https://www.genome.gov/genetics-glossary/Somatic-Cells
+
+**Abstract**: "A somatic cell is any cell of the body except sperm and egg cells. Somatic cells are diploid, meaning that they contain two sets of chromosomes, one inherited from each parent. Mutations in somatic cells can affect the individual, but they are not passed on to offspring."
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/somatic_cells.jpg
+ 
+**Transcript**: "Somatic cells is a fairly general term which refers to essentially all the cells of the body except for the germ line; the germ line being the cells in the sexual organs that produce sperm and eggs. So anything that doesn't have the job of producing sperm or eggs is a somatic cell. It is very important, of course, for every living organism to be alive, but it contributes nothing in terms of inheritance through genetics, inheritance to the next generation. So it is only of use to the living organism and has no relation to anything that happens in the next generation of that organism."
+
+Shawn Burgess, Ph.D.

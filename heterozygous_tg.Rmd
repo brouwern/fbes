@@ -1,0 +1,17 @@
+##  Talking Glossary: Heterozygous
+
+https://www.genome.gov/genetics-glossary/heterozygous (Links to an external site.)
+
+**Abstract**: "Heterozygous refers to having inherited different forms of a particular gene from each parent. A heterozygous genotype stands in contrast to a homozygous genotype, where an individual inherits identical forms of a particular gene from each parent."
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/heterozygous.mp3
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/heterozygous.jpg
+
+**Transcript**: "Heterozygous is a state of having inherited different forms of a particular gene from each one of your biological parents. Now, by different forms we generally mean that there are different portions of the gene where the sequence is different. They may be inconsequential portions of the gene, or they may in fact be pretty important portions of the gene. That doesn't really matter for our discussion today. The word "heterozygous" simply means that your biological mother and your biological father, when they contributed their copies of a particular gene to you, they did so in a way so that the DNA sequence is slightly different. It can be different at one point in the gene, or it can be different at dozens and dozens of different points in the gene. Now, a heterozygous genotype stands in contrast to a homozygous genotype. And in the case of a homozygous genotype, we're talking about a case where we've gotten identical forms of a particular gene from each biological parent. That is, if we were to read along the DNA sequence that mom gave you and the DNA sequence that dad gave you, we would find absolutely, positively no differences in that gene or in the region of the gene that we're concerned about. "Heterozygous" meaning different, "homozygous" meaning the same."
+
+Amalia S. Dutra, Ph.D.
+
+
+Amalia Dutra, Ph.D, is a Uruguayan genetic biologist known for being part of the team that mapped the human genome
+

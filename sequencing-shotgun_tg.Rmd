@@ -1,0 +1,9 @@
+## Talking Glossary U03: Shotgun sequencing  (1 min)
+
+Now just called "sequencing"
+
+**Introduction**: "Shotgun sequencing is a laboratory technique for determining the DNA sequence of an organism's genome. The method involves breaking the genome into a collection of small DNA fragments that are sequenced individually. A computer program looks for overlaps in the DNA sequences and uses them to place the individual fragments in their correct order to reconstitute the genome."
+
+**Transcript**: "The most efficient way to sequence a large piece of DNA involves a process known as shotgun sequencing. For this, the starting DNA is broken up randomly into many smaller pieces, sort of in a shotgun fashion, with each of those pieces then sequenced individually. The resulting sequence reads generated from the different pieces are then analyzed by a computer program, looking for stretches of sequence from different reads that are identical with one another. When identical regions are identified, they are overlapped with one another, allowing the two sequence reads to be stitched together. This computer process is repeated over and over and over again, eventually yielding the complete sequence of the starting piece of DNA. The initial random fragmenting and reading of the DNA gave this approach the name "shotgun sequencing". "
+
+Eric D. Green, M.D., Ph.D.

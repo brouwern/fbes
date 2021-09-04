@@ -1,0 +1,16 @@
+## Talking Glossary: Restriction Enzyme (0.5 min)
+
+National Human Genome Research Institute
+
+https://www.genome.gov/genetics-glossary/Restriction-Enzyme
+
+ 
+Intro: "A restriction enzyme is an enzyme isolated from bacteria that cuts DNA molecules at specific sequences. The isolation of these enzymes was critical to the development of recombinant DNA (rDNA) technology and genetic engineering."
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/restriction_enzymes.mp3
+
+
+
+Text "Restriction enzymes are proteins that bind to DNA in a very specific manner. So they actually recognize the base pairs within the DNA. And typically they will bind to a palindromic sequence, for instance, a sequence that is a mirror copy of itself--AGCCGA."
+
+[Stacie Loftus](https://www.genome.gov/staff/Stacie-Loftus-PhD), Ph.D.
