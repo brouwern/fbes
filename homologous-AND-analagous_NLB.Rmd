@@ -1,4 +1,4 @@
-# When things are homolgous AND analogous! 
+## Homology:L When things are homolgous AND analogous! 
 
 By: Dr. Brouwer
 
@@ -23,6 +23,5 @@ But wait - in our above example of forelimbs we had humans, whales, cats and bir
 
 Sadava et al (11th edition) puts it this way
 
-"Any features shared by two or more species that have been inherited from a common ancestor are said to be homologous.  Homologous features may be any heritable trait, including DNA sequences, protein structures, anatomical structures, and even some behavior patterns.  For example, all living vertebrates have a vertebral column, as did the ancestral vertebrate.  Therefore the vertebral column is judged to be homologous in all vertebrates.
-
-"...similar traits may evolve independently in different lineages, a phenomenon called convergent evolution.  For example, although the wing bones [I say forelimbs] of bats and birds are homologous, having been inherited from a common tetrapod ancestor, the wings of bats and birds are not homologous because they evolved independently from forelimbs of different nonflying ancestors.  Functionally similar structures that have independent evolutionary origins are called analogous characters." Sadava et al (11th edition, pg 451).
+>"Any features shared by two or more species that have been inherited from a common ancestor are said to be homologous.  Homologous features may be any heritable trait, including DNA sequences, protein structures, anatomical structures, and even some behavior patterns.  For example, all living vertebrates have a vertebral column, as did the ancestral vertebrate.  Therefore the vertebral column is judged to be homologous in all vertebrates.
+>"...similar traits may evolve independently in different lineages, a phenomenon called convergent evolution.  For example, although the wing bones [I say forelimbs] of bats and birds are homologous, having been inherited from a common tetrapod ancestor, the wings of bats and birds are not homologous because they evolved independently from forelimbs of different nonflying ancestors.  Functionally similar structures that have independent evolutionary origins are called analogous characters." Sadava et al (11th edition, pg 451).

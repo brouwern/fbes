@@ -1,4 +1,4 @@
-# Clade
+## Clade
 
 Adapted from Wikipedia
 https://en.wikipedia.org/wiki/Clade
@@ -22,11 +22,11 @@ knitr::include_url(x)
 
 Many commonly named groups, rodents  and insects  for example, are clades because, in each case, the group consists of a common ancestor with all its descendant branches. Rodents, for example, are a branch of mammals  that split off after the end of the period when the clade Dinosauria  stopped being the dominant terrestrial vertebrates  66 million years ago. The original population and all its descendants are a clade. The rodent clade corresponds to the order Rodentia, and insects to the class Insecta. These clades include smaller clades, such as chipmunk  or ant , each of which consists of even smaller clades. The clade "rodent" is in turn included in the mammal, vertebrate  and animal clades.
 
-## Clades and phylogenetic trees
+### Clades and phylogenetic trees
 
 The science that tries to reconstruct phylogenetic trees and thus discover clades is called phylogenetics . The results of phylogenetic analyses are tree-shaped diagrams called phylogenies; they, and all their branches, are phylogenetic hypotheses.[14]
 
-## Terminology
+### Terminology
 The relationship between clades can be described in several ways:
 
 1. A clade located within a clade is said to be nested within that clade. In the diagram, the hominoid  clade, i.e. the apes and humans, is nested within the primate clade.
@@ -42,7 +42,7 @@ knitr::include_url(x)
 
 An episode of [Elementary](https://en.wikipedia.org/wiki/Elementary_(TV_series))  is titled "[Dead Clade Walking](https://en.wikipedia.org/wiki/List_of_Elementary_episodes#ep38) " and deals with a case involving a rare fossil.
 
-## References
+### References
 
 1. Wells, John C. (2008). Longman Pronunciation Dictionary (3rd ed.). Longman. ISBN 978-1-4058-8118-0. "clade". Merriam-Webster Dictionary. Retrieved 19 April 2020.
  Martin, Elizabeth; Hin, Robert (2008). A Dictionary of Biology. Oxford University Press.

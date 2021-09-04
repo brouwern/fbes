@@ -1,4 +1,4 @@
-# Phylogenetics vocab
+## Phylogenetics vocab
 
 Here are definitions of key terms related to phylogenetics. 
 
