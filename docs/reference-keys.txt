@@ -36,6 +36,12 @@ talking-glossary-gene-amplification-1.5-min
 talking-glossary-gene-pool-0.75-min
 gene-prediction
 genbank
+genetic-code
+the-genetics-code
+the-central-dogma-dna-encodes-rna-rna-encodes-protein
+the-genetic-code-is-degenerate-and-universal
+start-and-stop-codons
+summary
 genetic-distance
 talking-glossary-genetic-drift-0.75-min
 talking-glossary-genetic-engineering-1.5-min
@@ -74,7 +80,7 @@ dna-and-rna
 dna-double-helix-structure
 rna
 protein-function
-summary
+summary-1
 glossary
 contributors-and-attributions
 o

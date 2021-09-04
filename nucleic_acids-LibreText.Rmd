@@ -317,7 +317,7 @@ template of DNA\
 **translation**: process through which RNA directs the formation of
 protein
 
-## Contributors and Attributions
+### Contributors and Attributions
 
 Connie Rye (East Mississippi Community College), Robert Wise (University
 of Wisconsin, Oshkosh), Vladimir Jurukovski (Suffolk County Community

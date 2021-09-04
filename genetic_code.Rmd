@@ -1,0 +1,42 @@
+## The genetic code - Overview {#genetic-code}
+
+**Authors**: OpenStax / Libretext Formatted in RMarkdown by Nathan
+Brouwer under the Creative Commons Attribution License 4.0 license.
+
+This chapter was adapted from [LibreText General
+Biology](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)),
+Chapter 15, [Section 15.0: Prelude](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/3%3A_Genetics/15%3A_Genes_and_Proteins/15.0%3A_Prelude_to_Genes_and_Proteins) and [15.1: The Genetic Code](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/3%3A_Genetics/15%3A_Genes_and_Proteins/15.1%3A_The_Genetic_Code).
+The LibreText book is based on [OpenStax Biology 2nd
+edition](https://openstax.org/details/books/biology-2e).
+
+ Genes are composed of **DNA** and are linearly arranged on **chromosomes** within cells. Genes specify the sequences of **amino acids**, which are the building blocks of **proteins**. In turn, proteins are responsible for orchestrating nearly every function of the cell. 
+ 
+### The genetics code
+
+The cellular process of **transcription** generates **messenger RNA (mRNA)**, a mobile molecular copy of a gene with an alphabet of A, C, G, and uracil (U). **Translation** of the mRNA template converts nucleotide-based genetic information into a protein product. Protein sequences consist of 20 possible **amino acids**; therefore, it can be said that the protein alphabet consists of 20 letters. 
+
+Each amino acid is coded for by a three-nucleotide sequence called the **triplet codon** (often just called a **codon**).  Variation in amino acid sequence gives rise to enormous variation in protein structure and function.
+
+### The Central Dogma: DNA Encodes RNA; RNA Encodes Protein
+
+The flow of genetic information in cells from DNA to mRNA to protein is characterized by the **Central Dogma** of molecular biology, which states that genes specify the sequence of mRNAs, which in turn specify the sequence of proteins. The decoding of one molecule to another is performed by specific proteins.  Because the information stored in 
+The copying of DNA to RNA is relatively straightforward, with one nucleotide being added to the mRNA strand for every nucleotide read in the DNA strand. The translation to protein is a bit more complex because *three* mRNA nucleotides correspond to one amino acid in the growing sequence. However, the translation to protein is still systematic, such that nucleotides 1 to 3 correspond to amino acid 1, nucleotides 4 to 6 correspond to amino acid 2, and so on.
+
+### The Genetic Code Is "Degenerate" and Universal
+
+Given the different numbers of “letters” in the mRNA and protein “alphabets,” scientists theorized that combinations of nucleotides corresponded to single amino acids. Nucleotide doublets (set of 2) would not be sufficient to specify every amino acid because there are only 16 possible two-nucleotide combinations (4^2). In contrast, there are 64 possible nucleotide triplets (4^3), which is far more than the number of amino acids. 
+
+Scientists theorized that amino acids were encoded by nucleotide triplets and that the genetic code was **degenerate**. In other words, a given amino acid could be encoded by more than one nucleotide triplet. This was later confirmed experimentally. When one or two nucleotides were inserted into a gene, protein synthesis was completely prevented. When three nucleotides were inserted, the protein was synthesized and usually functional, but with an additional amino acid in it. This demonstrated that three nucleotides specify each amino acid. These nucleotide triplets are called **codons**. The insertion of one or two nucleotides completely changed the triplet **reading frame**, thereby altering the message for every subsequent amino acid.  These are now called **frameshift mutations**.  Though insertion of three nucleotides caused an extra amino acid to be inserted during translation, the integrity of the rest of the protein was maintained.
+
+Degeneracy is believed to be a  mechanism to reduce the negative impact of random mutations. Codons that specify the same amino acid typically only differ by one nucleotide. In addition, amino acids that are chemically similar (e.g. similar mass or similar electrical charge) are encoded by similar codons. This nuance of the genetic code ensures that a single-nucleotide substitution mutation might either specify the same amino acid but have no effect or specify a similar amino acid, preventing the protein from being rendered completely nonfunctional.
+
+With a few exceptions, virtually all species use the same genetic code for protein synthesis, hence it is the universal code of life on earth. Conservation of codons means that a purified mRNA encoding the globin protein in horses could be transferred to a tulip cell, and the tulip would synthesize horse globin. That there is only one genetic code is powerful evidence that all of life on Earth shares a common origin.
+
+### Start and stop codons
+
+In addition to instructing the addition of a specific amino acid to a polypeptide chain, three of the 64 codons terminate protein synthesis. These triplets are called **stop codons**. Another codon also has a special function. In addition to specifying the amino acid methionine, it also serves as the **start codon** to initiate translation of mRNA into protein.  If a mutation removes or alters a start codon no protein can be made.  Removal or alteration of a stop codon similarly results a non-functional protein.  
+
+
+### Summary
+
+The genetic code refers to the DNA alphabet (A, T, C, G), the RNA alphabet (A, U, C, G), and the protein alphabet (20 amino acids). The Central Dogma describes the flow of genetic information in the cell from genes to mRNA to proteins. Genes serve as the templates for mRNA via the process of transcription; mRNA is then used as the template for proteins during translation. The genetic code is degenerate because 64 triplet codons in mRNA specify only 20 amino acids and three nonsense codons. Almost every species on the planet uses the same genetic code.
