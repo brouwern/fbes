@@ -1,0 +1,118 @@
+## Structural Classification of Proteins database (SCOP)
+
+Adapted from Wikipedia
+https://en.wikipedia.org/wiki/Structural_Classification_of_Proteins_database
+
+The Structural Classification of Proteins (SCOP) database is a largely manual classification of protein **structural domains** based on similarities of their structures and amino acid sequences. A motivation for this classification is to determine the **evolutionary relationship** between proteins. Proteins with the same shapes but having little sequence or functional similarity are placed in different superfamilies, and are assumed to have only a very distant common ancestor. Proteins having the same shape and some similarity of sequence and/or function are placed in "families", and are assumed to have a closer common ancestor.
+
+Similar to **CATH** and **Pfam** databases, SCOP provides a classification of individual structural domains of proteins, rather than a classification of the entire proteins which may include a significant number of different domains.
+
+The SCOP database is freely accessible on the internet. SCOP was created in 1994 in the Centre for Protein Engineering and the Laboratory of Molecular Biology (3).  It was maintained by Alexey G. Murzin and his colleagues in the Centre for Protein Engineering until its closure in 2010 and subsequently at the Laboratory of Molecular Biology in Cambridge, England (4, 5, 6, 1).
+
+### Hierarchical organisation
+
+The source of protein structures is the Protein Data Bank. The unit of classification of structure in SCOP is the protein domain. What the SCOP authors mean by "domain" is suggested by their statement that small proteins and most medium-sized ones have just one domain (8), and by the observation that human hemoglobin (9), which has an α2β2 structure, is assigned two SCOP domains, one for the α and one for the β subunit.
+
+The shapes of domains are called "**folds**" in SCOP. Domains belonging to the same fold have the same major secondary structures in the same arrangement with the same topological connections. 1195 folds are given in SCOP version 1.75. 
+
+<!-- Short descriptions of each fold are given. For example, the "globin-like" fold is described as core: 6 helices; folded leaf, partly opened. The fold to which a domain belongs is determined by inspection, rather than by software. -->
+
+<!-- The levels of SCOP version 1.75 are as follows. -->
+
+<!-- * Class: Types of folds, e.g., beta sheets. -->
+<!-- * Fold: The different shapes of domains within a class. -->
+<!-- * Superfamily: The domains in a fold are grouped into superfamilies, which have at least a distant common ancestor. -->
+<!-- * Family: The domains in a superfamily are grouped into families, which have a more recent common ancestor. -->
+<!-- * Protein domain: The domains in families are grouped into protein domains, which are essentially the same protein. -->
+<!-- * Species: The domains in "protein domains" are grouped according to species. -->
+<!-- * Domain: part of a protein. For simple proteins, it can be the entire protein -->
+
+
+<!-- ### Classes -->
+
+<!-- The broadest groups on SCOP version 1.75 are the protein fold classes. These classes group structures with similar secondary structure composition, but different overall tertiary structures and evolutionarily origins. This is the top level "root" of the SCOP hierarchical classification. -->
+
+<!-- * All alpha proteins [46456] (284): Domains consisting of α-helices -->
+<!-- * All beta proteins [48724] (174): Domains consisting of β-sheets -->
+<!-- * Alpha and beta proteins (a/b) [51349] (147): Mainly parallel beta sheets (beta-alpha-beta units) -->
+<!-- * Alpha and beta proteins (a+b) [53931] (376): Mainly antiparallel beta sheets (segregated alpha and beta regions) -->
+<!-- * Multi-domain proteins (alpha and beta) [56572] (66): Folds consisting of two or more domains belonging to different classes membrane and cell surface proteins and peptides [56835] (58): Does not include proteins in the immune system -->
+<!-- * Small proteins [56992] (90): Usually dominated by metal ligand, cofactor, and/or disulfide bridges -->
+<!-- coiled-coil proteins [57942] (7): Not a true class -->
+<!-- * Low resolution protein structures [58117] (26): Peptides and fragments. Not a true class -->
+<!-- Peptides [58231] (121): peptides and fragments. Not a true class. -->
+<!-- Designed proteins [58788] (44): Experimental structures of proteins with essentially non-natural sequences. Not a true class -->
+
+<!-- The number in brackets, called a "sunid", is a SCOP unique integer identifier for each node in the SCOP hierarchy. The number in parentheses indicates how many elements are in each category. For example, there are 284 folds in the "All alpha proteins" class. Each member of the hierarchy is a link to the next level of the hierarchy. -->
+
+<!-- ### Folds -->
+
+<!-- Each class contains a number of distinct folds. This classification level indicates similar tertiary structure, but not necessarily evolutionary relatedness. For example, the "All-α proteins" class contains >280 distinct folds, including: Globin-like (core: 6 helices; folded leaf, partly opened), long alpha-hairpin (2 helices; antiparallel hairpin, left-handed twist) and Type I dockerin domains (tandem repeat of two calcium-binding loop-helix motifs, distinct from the EF-hand). -->
+
+### Superfamilies
+
+Domains within a fold are classified into **superfamilies**. This is a largest grouping of proteins for which structural similarity is sufficient to indicate evolutionary relatedness and therefore share a common ancestor. However, this ancestor is presumed to be distant, because the different members of a superfamily have low sequence identities. For example, the two superfamilies of the "Globin-like" fold are: the Globin superfamily and alpha-helical ferredoxin superfamily.
+
+### Families
+
+Protein families are more closely related than superfamilies. Domains are placed in the same family if that have either:
+  
+* less than 30% sequence identity 
+* some sequence identity (e.g., 15%) AND perform the same function
+
+The similarity in sequence and structure is evidence that these proteins have a closer evolutionary relationship than do proteins in the same superfamily. Sequence tools, such as BLAST, are used to assist in placing domains into superfamilies and families. 
+
+<!-- For example, the four families in the "globin-like" superfamily of the "globin-like" fold are truncated hemoglobin (lack the first helix), nerve tissue mini-hemoglobin (lack the first helix but otherwise is more similar to conventional globins than the truncated ones), globins (Heme-binding protein), and phycocyanin-like phycobilisome proteins (oligomers of two different types of globin-like subunits containing two extra helices at the N-terminus binds a bilin chromophore). Families in SCOP are each assigned a concise classification string, sccs, where the letter identifies the class to which the domain belongs; the following integers identify the fold, superfamily, and family, respectively (e.g., a.1.1.2 for the "Globin" family).[10] -->
+
+
+### PDB entry domains
+
+**OPTIONAL**
+
+A "TaxId" is the taxonomy ID number and links to the NCBI taxonomy browser, which provides more information about the species to which the protein belongs. Clicking on a species or isoform brings up a list of domains. For example, the "Hemoglobin, alpha-chain from Human (Homo sapiens)" protein has >190 solved protein structures, such as 2dn3 (complexed with cmo), and 2dn1 (complexed with hem, mbn, oxy). Clicking on the PDB numbers is supposed to display the structure of the molecule, but the links are currently broken (links work in pre-SCOP).
+
+<!-- ### Example -->
+<!-- Most pages in SCOP contain a search box. Entering "trypsin +human" retrieves several proteins, including the protein trypsinogen from humans. Selecting that entry displays a page that includes the "lineage", which is at the top of most SCOP pages. -->
+
+<!-- Human trypsonogen lineage -->
+<!-- Root: scop -->
+<!-- Class: All beta proteins [48724] -->
+<!-- Fold: Trypsin-like serine proteases [50493] -->
+<!-- barrel, closed; n=6, S=8; greek-key -->
+<!-- duplication: consists of two domains of the same fold -->
+<!-- Superfamily: Trypsin-like serine proteases [50494] -->
+<!-- Family: Eukaryotic proteases [50514] -->
+<!-- Protein: Trypsin(ogen) [50515] -->
+<!-- Species: Human (Homo sapiens) [TaxId: 9606] [50519] -->
+<!-- Searching for "Subtilisin" returns the protein, "Subtilisin from Bacillus subtilis, carlsberg", with the following lineage. -->
+
+<!-- Subtilisin from Bacillus subtilis, carlsberg lineage -->
+<!-- Root: scop -->
+<!-- Class: Alpha and beta proteins (a/b) [51349] -->
+<!-- Mainly parallel beta sheets (beta-alpha-beta units) -->
+<!-- Fold: Subtilisin-like [52742] -->
+<!-- 3 layers: a/b/a, parallel beta-sheet of 7 strands, order 2314567; left-handed crossover connection between strands 2 & 3 -->
+<!-- Superfamily: Subtilisin-like [52743] -->
+<!-- Family: Subtilases [52744] -->
+<!-- Protein: Subtilisin [52745] -->
+<!-- Species: Bacillus subtilis, carlsberg [TaxId: 1423] [52746] -->
+<!-- Although both of these proteins are proteases, they do not even belong to the same fold, which is consistent with them being an example of convergent evolution. -->
+
+<!-- ### Comparison to other classification systems -->
+
+<!-- SCOP classification is more dependent on manual decisions than the semi-automatic classification by CATH, its chief rival. Human expertise is used to decide whether certain proteins are evolutionary related and therefore should be assigned to the same superfamily, or their similarity is a result of structural constraints and therefore they belong to the same fold. Another database, FSSP, is purely automatically generated (including regular automatic updates) but offers no classification, allowing the user to draw their own conclusion as to the significance of structural relationships based on the pairwise comparisons of individual protein structures. -->
+
+<!-- ### SCOP successors -->
+
+<!-- By 2009, the original SCOP database manually classified 38,000 PDB entries into a strictly hierarchical structure. With the accelerating pace of protein structure publications, the limited automation of classification could not keep up, leading to a non-comprehensive dataset. The Structural Classification of Proteins extended (SCOPe) database was released in 2012 with far greater automation of the same hierarchical system and is full backwards compatible with SCOP version 1.75. In 2014, manual curation was reintroduced into SCOPe to maintain accurate structure assignment. As of February 2015, SCOPe 2.05 classified 71,000 of the 110,000 total PDB entries.[11] -->
+
+<!-- SCOP2 prototype was a beta version of Structural classification of proteins and classification system that aimed to more the evolutionary complexity inherent in protein structure evolution.[12] It is therefore not a simple hierarchy, but a directed acyclic graph network connecting protein superfamilies representing structural and evolutionary relationships such as circular permutations, domain fusion and domain decay. Consequently, domains are not separated by strict fixed boundaries, but rather are defined by their relationships to the most similar other structures. The prototype was used for the development of the SCOP version 2 database.[7] The SCOP version 2, release January 2020, contains 5134 families and 2485 superfamilies compared to 3902 families and 1962 superfamilies in SCOP 1.75. The classification levels organise more than 41 000 non-redundant domains that represent more than 504 000 protein structures. -->
+
+<!-- The Evolutionary Classification of Protein Domains (ECOD) database released in 2014 is a similar to SCOPe expansion of SCOP version 1.75. Unlike the compatible SCOPe, it renames the class-fold-superfamily-family hierarchy into an architecture-X-homology-topology-family (A-XHTF) grouping, with the last level mostly defined by Pfam and supplemented by HHsearch clustering for uncategorized sequences.[13] ECOD has the best PDB coverage of all three successors: it covers every PDB structure, and is updated biweekly.[14] The direct mapping to Pfam has proven useful to Pfam curators who use the homology-level category to supplement their "clan" grouping.[15] -->
+
+<!-- See also -->
+  <!-- Structural alignment -->
+  <!-- CATH -->
+  <!-- FSSP -->
+  <!-- SUPERFAMILY -->
+  <!-- Pfam -->

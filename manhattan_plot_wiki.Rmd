@@ -1,0 +1,44 @@
+## Manhattan Plot
+
+This article is adapted Wikipedia, the free encyclopedia:https://en.wikipedia.org/wiki/Manhattan_plot
+
+A **Manhattan plot** is a type of [scatter plot](https://en.wikipedia.org/wiki/Scatter_plot) commonly used in genome-wide association studies (GWAS) to display significant SNPs (single nucleotide polymorphisms).  The data being plotted has some unique features because
+
+1. All values are non-negative
+1. Most values are low
+1. Researchers are interested in only the highest values, which indicate SNPs which are near parts of a genome of potential biological importance.
+
+```{r}
+## Load packages and data
+#install.packages("qqman")
+library(qqman)
+data(gwasResults)
+
+# ## Investigate results
+# dim(gwasResults)
+# names(gwasResults)
+# 
+# 
+# ## Distributio of P values
+# #hist(gwasResults$P)
+# 
+# # Make Manhattan plot
+# manhattan(gwasResults)
+
+manhattan(gwasResults,
+          annotatePval = 0.005, 
+          main = "Manhattan Plot", 
+          ylab = "Significance",
+          annotateTop = TRUE)
+
+```
+
+
+Manhattan plots get their name from the similarity of such a plot to the Manhattan skyline: a profile of skyscrapers towering above the lower level "buildings" which vary around a lower height.
+
+### GWAS
+
+In GWAS Manhattan plots, genomic coordinates are displayed along the X-axis, with each dot on the Manhattan plot signifies a SNP.  The Y-axis represents the strength statistical significance of the SNP-phenotype association. The different colors of each block usually show the extent of each chromosome.
+
+<!-- the negative logarithm of the association p-value for each single nucleotide polymorphism (SNP) displayed on the Y-axis, meaning thatBecause the strongest associations have the smallest p-values (e.g., 10−15), their negative logarithms will be the greatest (e.g., 15).  -->
+

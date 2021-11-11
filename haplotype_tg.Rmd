@@ -1,0 +1,9 @@
+## Talking Glossary: Halplotype 
+
+A haplotype is a set of DNA variations, or polymorphisms, that tend to be inherited together. A haplotype can refer to a combination of alleles or to a set of single nucleotide polymorphisms (SNPs) found on the same chromosome. Information about haplotypes is being collected by the International HapMap Project and is used to investigate the influence of genes on disease.
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/haplotype.mp3
+
+A haplotype is in its most general sense referring to a set of DNA variations along a chromosome that tend to be inherited together because they're very close together. They get inherited together because they're not generally crossovers or recombinations between these markers or between these different polymorphisms because they are very, very close. So a haplotype can refer to a combination of alleles in a single gene, or it could be alleles across multiple genes. It could be single nucleotide polymorphisms that are not in a gene but are in-between genes. Basically, it just means that these are variations in the DNA that are so close together that they tend not to recombine, and therefore tend to be passed down through the generations together. And the International HapMap Project has given us a very excellent tool to detect these regions of haplotypes that are passed together and to use those in genetic studies.
+
+Joan E. Bailey-Wilson, Ph.D.

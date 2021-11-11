@@ -1,0 +1,11 @@
+## Medline: GWAS (Genome wide association study)
+
+Adapated from Medline: What are genome-wide association studies?
+https://medlineplus.gov/genetics/understanding/genomicresearch/gwastudies/
+
+Genome-wide association studies are a relatively new way for scientists to identify genes involved in human disease. This method searches the genome for small variations, called single nucleotide polymorphisms or SNPs (pronounced “snips”), that occur more frequently in people with a particular disease than in people without the disease. Each study can look at hundreds or thousands of SNPs at the same time. Researchers use data from this type of study to pinpoint genes that may contribute to a person’s risk of developing a certain disease.
+
+Because genome-wide association studies examine SNPs across the genome, they represent a promising way to study complex, common diseases in which many genetic variations contribute to a person’s risk. This approach has already identified SNPs related to several complex conditions including diabetes, heart abnormalities, Parkinson disease, and Crohn disease. Researchers hope that future genome-wide association studies will identify more SNPs associated with chronic diseases, as well as variations that affect a person’s response to certain drugs and influence interactions between a person’s genes and the environment.
+
+For more on GWAS see:
+https://www.illumina.com/areas-of-interest/complex-disease-genomics/gwas.html

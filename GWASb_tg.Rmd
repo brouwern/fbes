@@ -1,0 +1,19 @@
+## The Talking Glossary: GWAS 
+
+https://www.genome.gov/genetics-glossary/Genome-Wide-Association-Studies
+
+Overview: A genome-wide association study (GWAS) is an approach used in genetics research to associate specific genetic variations with particular diseases. The method involves scanning the genomes from many different people and looking for genetic markers that can be used to predict the presence of a disease. Once such genetic markers are identified, they can be used to understand how genes contribute to the disease and develop better prevention and treatment strategies.
+
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/genome-wide_association_studies_gwas.mp3
+
+Text: 
+
+>"GWAS, or Genome-Wide Association Studies, are responsible for the deluge of discoveries in terms of the genetic risk factors for common disease that have been pouring out of research labs recently. What you do for a genome-wide association study is find a lot of people who have the disease, a lot of people who don't, and who are otherwise well matched. And then, searching across the entire genome using SNPs, you try to find a place where there is a consistent difference. And if you're successful--and [you've] got to be really careful about the statistics here, so that you don't jump on a lot of false positives--it allows you to zero in on a place in the genome that must be involved in disease risk without having to guess ahead of time what kind of gene you're going to find. The beauty of GWAS is it got us past the candidate gene approach, which had been pretty frustrating because most of the candidates turned out not to be right, to be able to say the whole set of genes are your candidates, let's consider all of them, and here's a strategy that's comprehensive enough to allow you to do that."  Francis S. Collins, M.D., Ph.D.
+
+For more informaiton from the NIH see 
+Genome-Wide Association Studies Fact Sheet
+https://www.genome.gov/about-genomics/fact-sheets/Genome-Wide-Association-Studies-Fact-Sheet
+
+For more information see:
+https://knowgenetics.org/genome-wide-association-studies-gwas/

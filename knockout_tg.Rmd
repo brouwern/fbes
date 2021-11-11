@@ -1,0 +1,11 @@
+## Talking glossary: Knockout (Genetic knockout, gene knockout)
+
+**Introduction**: A knockout typically refers to an organism that has been genetically engineered to lack one or more specific genes. Scientists create knockouts (often in mice) so that they can study the impact of the missing genes and learn something about the genes' function.
+
+Audio: https://www.genome.gov/genetics-glossary/Knockout
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/knockout.jpg
+
+**Transcript:** Knockout does not refer to boxing, at least in this context. But it is a similar concept that what one is doing is inactivating a gene instead of inactivating your partner in boxing. This can be done in a variety of ways. Either one can insert a stop codon in the midst of a gene that one wants to eliminate the function of. Because, as we know, genes which have stock codons in the middle of them, when they occur naturally, they're frequently referred to as disease gene mutations, and they do that because they eliminate the function of the gene. So one can do this experimentally too, and when we do it experimentally on purpose--that's called a knockout. If one really wants to be extreme, one can knock out a gene by taking out the entire gene. One can go in and cut it at one end, cut it at the other, and take out the entire gene. That's the most extreme knockout. Then in that case, you're knocking the boxer out of the ring, so there's no possibility that he's going to come back. In the case of an induced stop mutation, it's a little bit like knocking out the boxer. It's likely he's not going to get up again, but it's always possible that he might. So you take a little bit of a chance. It's a little easier than knocking him out of the ring, but there's still a bit of a chance that your knockout may be incomplete.
+
+Christopher P. Austin, M.D.

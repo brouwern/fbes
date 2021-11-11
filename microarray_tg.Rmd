@@ -1,0 +1,14 @@
+## Talking Glossary: Microarray
+
+https://www.genome.gov/genetics-glossary/Microarray-Technology
+
+Microarray technology is a developing technology used to study the expression of many genes at once. It involves placing thousands of gene sequences in known locations on a glass slide called a gene chip. A sample containing DNA or RNA is placed in contact with the gene chip. Complementary base pairing between the sample and the gene sequences on the chip produces light that is measured. Areas on the chip producing light identify genes that are expressed in the sample.
+
+Image: https://www.genome.gov/sites/default/files/tg/en/illustration/microarray_technology.jpg
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/microarray_technology.mp3
+
+
+Microarrays are a technology that basically miniaturize processes that have been used in molecular genetics laboratories for years. They allow detection of DNA or RNA molecules by hybridizing or sticking to target DNA molecules or RNA molecules on a glass slide, with detection of that adherent DNA or RNA molecule by various labels or dyes that allow them to be seen under a microscope.
+
+Leslie G. Biesecker, M.D.

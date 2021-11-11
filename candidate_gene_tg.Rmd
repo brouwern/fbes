@@ -1,0 +1,12 @@
+## Talking Glossary: Candidate gene
+
+National Human Genome Research Institute
+https://www.genome.gov/genetics-glossary/Candidate-Gene
+
+**Introduction**: National Human Genome Research InstituteA candidate gene is a gene whose chromosomal location is associated with a particular disease or other phenotype. Because of its location, the gene is suspected of causing the disease or other phenotype.
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/cancer.mp3
+
+**Transcript**: A candidate gene is a gene whose chromosomal location fits with a particular disease or phenotype that you're looking for. An example of this is when you're doing any type of linkage analysis and you're trying to find the disease gene that's associated with that particular disease. You use what we call genetic markers, and the markers will tell you, okay, based on what you see, the recombination frequency, etc., the gene has to be between marker X and marker Y. And what that means is that this distance between marker X and marker Y constitutes your candidate region, and all the genes in that region will be a candidate gene. And now the next thing for you to do is then to look individually at each of those genes to see if they have the mutation that's associated with the disease that you're looking for.
+
+Milton English, Ph.D.

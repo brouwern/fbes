@@ -1,0 +1,14 @@
+## Talking Glossary: Markder
+
+https://www.genome.gov/genetics-glossary/Marker
+
+A marker is a DNA sequence with a known physical location on a chromosome. Markers can help link an inherited disease with the responsible genes. DNA segments close to each other on a chromosome tend to be inherited together. Markers are used to track the inheritance of a nearby gene that has not yet been identified but whose approximate location is known. The marker itself may be a part of a gene or may have no known function.
+
+Audio: https://www.genome.gov/sites/default/files/tg/en/narration/marker.mp3
+
+Genetic marker is a very simple concept. Think about it as a signpost. Think about DNA as one long road from one end to the other. And what one needs is mile markers or signposts along that road so that when one is traveling from one end of the road to the other, you know where you are. And those signposts, those markers, can come from a variety of sources. Usually, they come from the variations in DNA sequence. Sometimes they're single variations of DNA sequence referred to as a single nucleotide polymorphisms, or SNP markers. Sometimes they're known as microsatellites. There are a variety of types of genetic markers. But the important thing is that those markers serve as signposts, which help researchers relate a particular kind of trait or disease that they're trying to figure out the genetic basis of to a particular location in DNA. And so the change in DNA sequence may actually be in the disease gene itself that they're looking for, but more frequently it's just what it says: It's a marker of it, which could be upstream or downstream, but is not actually the disease gene one is looking for.
+
+Christopher P. Austin, M.D.
+
+
+See also: Genetic marker
