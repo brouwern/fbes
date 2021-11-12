@@ -38,7 +38,7 @@ knitr::include_url(x)
 ```
 
 
-## In popular culture
+### In popular culture
 
 An episode of [Elementary](https://en.wikipedia.org/wiki/Elementary_(TV_series))  is titled "[Dead Clade Walking](https://en.wikipedia.org/wiki/List_of_Elementary_episodes#ep38) " and deals with a case involving a rare fossil.
 

@@ -40,7 +40,7 @@ The discovery of IDPs offers support against the idea that three-dimensional str
 
 <!-- In 2001, Dunker questioned whether the newly found information was ignored for 50 years[9] with more quantitative analyses becoming available in the 2000s.[10] In the 2010s it became clear that IDPs are common among disease-related proteins, such as alpha-synuclein and tau.[11] -->
 
-## Abundance
+### Abundance
 
 It is now generally accepted that proteins exist as an ensemble of similar structures with some regions more constrained than others. IDPs occupy the extreme end of this spectrum of flexibility.
 
@@ -91,23 +91,23 @@ Bioinformatic predictions indicated that intrinsic disorder is more common in ge
 
 <!-- Single-molecule methods to study IDPs include spFRET[38] to study conformational flexibility of IDPs and the kinetics of structural transitions, optical tweezers[39] for high-resolution insights into the ensembles of IDPs and their oligomers or aggregates, nanopores[40] to reveal global shape distributions of IDPs, magnetic tweezers[41] to study structural transitions for long times at low forces, high-speed AFM[42] to visualise the spatio-temporal flexibility of IDPs directly. -->
 
-## Disorder annotation
+### Disorder annotation
 
 <!-- REMARK465 - missing electron densities in X-ray structure representing protein disorder (PDB: 1a22, human growth hormone bound to receptor). Compilation of screenshots from PDB database and molecule representation via VMD. Blue and red arrows point to missing residues on receptor and growth hormone, respectively. -->
 
 Intrinsic disorder can be either annotated from experimental information or predicted with specialized software. Disorder prediction algorithms can predict Intrinsic Disorder (ID) propensity with high accuracy (approaching around 80%) based on primary sequence composition, similarity to unassigned segments in protein x-ray datasets, flexible regions in NMR studies and physico-chemical properties of amino acids.
 
-## Disorder databases
+### Disorder databases
 
 Databases have been established to annotate protein sequences with intrinsic disorder information. The **DisProt database** contains a collection of **manually curated** protein segments which have been experimentally determined to be disordered. MobiDB is a database combining experimentally curated disorder annotations (e.g. from DisProt) with data derived from missing residues in X-ray crystallographic structures and flexible regions in NMR structures.
 
-## Predicting IDPs by sequence
+### Predicting IDPs by sequence
 
 Separating disordered from ordered proteins is essential for disorder prediction. One of the first steps to find a factor that distinguishes IDPs from non-IDPs is to specify biases within the amino acid composition. The  hydrophilic, charged amino acids (A, R, G, Q, S, P, E and K) have been characterized as disorder-promoting amino acids, while order-promoting amino acids (W, C, F, I, Y, V, L, and N) are hydrophobic and uncharged. The remaining amino acids (H, M, T and D) are ambiguous, found in both ordered and unstructured regions (2).  A more recent analysis ranked amino acids by their propensity to form disordered regions as follows (order promoting to disorder promoting): W, F, Y, I, M, L, V, N, C, T, A, G, R, D, H, Q, K, S, E, P (43).
 
 This information is the basis of most sequence-based predictors. Regions with little to no secondary structure, also known as NORS (NO Regular Secondary structure) regions (44) and low-complexity regions can easily be detected. However, not all disordered proteins contain such low complexity sequences.
 
-## Prediction methods
+### Prediction methods
 
 Determining disordered regions from lab methods is very costly and time-consuming. Due to the variable nature of IDPs, only certain aspects of their structure can be detected, so that a full characterization requires a large number of different methods and experiments. This further increases the expense of IDP determination. In order to overcome this obstacle, computer-based methods are created for predicting protein structure and function. It is one of the main goals of bioinformatics to derive knowledge by prediction. Predictors for IDP function are also being developed, but mainly use structural information such as linear motif sites (4, 45). There are different approaches for predicting IDP structure, such as neural networks or matrix calculations, based on different structural and/or biophysical properties.
 
@@ -115,7 +115,7 @@ Many computational methods exploit sequence information to predict whether a pro
 
 Due to the different approaches of predicting disordered proteins, estimating their relative accuracy is fairly difficult. For example, neural networks are often trained on different datasets. The disorder prediction category is a part of biannual CASP experiment that is designed to test methods according accuracy in finding regions with missing 3D structure (marked in PDB files as REMARK465, missing electron densities in X-ray structures).
 
-## Disorder and disease
+### Disorder and disease
 
 **This section optional** 
 

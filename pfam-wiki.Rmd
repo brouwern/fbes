@@ -1,0 +1,93 @@
+## PFam
+
+Adapted from Wikipedia.
+
+Pfam is a database of **protein families** that includes their annotations and multiple sequence alignments generated using bioinformatics tools known as hidden Markov models (HMM; 1, 2, 3. The most recent version, Pfam 34.0, was released in March 2021 and contains 19,179 families (4).
+
+
+### Uses
+
+The general purpose of the Pfam database is to provide a complete and accurate classification of protein families and domains.[5] Originally, the rationale behind creating the database was to have a semi-automated method of curating information on known protein families to improve the efficiency of annotating genomes.[6] The Pfam classification of protein families has been widely adopted by biologists because of its wide coverage of proteins and sensible naming conventions.[7]
+
+It is used by experimental biologists researching specific proteins, by structural biologists to identify new targets for structure determination, by computational biologists to organise sequences and by evolutionary biologists tracing the origins of proteins.[8] Early genome projects, such as human and fly used Pfam extensively for functional annotation of genomic data.[9, 10, 11]
+
+<!-- The Pfam website allows users to submit protein or DNA sequences to search for matches to families in the database. If DNA is submitted, a six-frame translation is performed, then each frame is searched.[12] Rather than performing a typical BLAST search, Pfam uses profile hidden Markov models, which give greater weight to matches at conserved sites, allowing better remote homology detection, making them more suitable for annotating genomes of organisms with no well-annotated close relatives.[13] -->
+
+<!-- Pfam has also been used in the creation of other resources such as iPfam, which catalogs domain-domain interactions within and between proteins, based on information in structure databases and mapping of Pfam domains onto these structures.[14] -->
+
+<!-- Features -->
+<!-- For each family in Pfam one can: -->
+
+<!--   View a description of the family -->
+<!-- Look at multiple alignments -->
+<!-- View protein domain architectures -->
+<!-- Examine species distribution -->
+<!-- Follow links to other databases -->
+<!-- View known protein structures -->
+<!-- Entries can be of several types: family, domain, repeat or motif. Family is the default class, which simply indicates that members are related. Domains are defined as an autonomous structural unit or reusable sequence unit that can be found in multiple protein contexts. Repeats are not usually stable in isolation, but rather are usually required to form tandem repeats in order to form a domain or extended structure. Motifs are usually shorter sequence units found outside of globular domains.[9] -->
+
+<!-- The descriptions of Pfam families are managed by the general public using Wikipedia (see History). -->
+
+<!-- As of release 29.0, 76.1% of protein sequences in UniprotKB matched to at least one Pfam domain.[15] -->
+
+<!-- Creation of new entries -->
+<!-- New families come from a range of sources, primarily the PDB and analysis of complete proteomes to find genes with no Pfam hit.[16] -->
+
+<!-- For each family, a representative subset of sequences are aligned into a high-quality seed alignment. Sequences for the seed alignment are taken primarily from pfamseq (a non-redundant database of reference proteomes) with some supplementation from UniprotKB.[15] This seed alignment is then used to build a profile hidden Markov model using HMMER. This HMM is then searched against sequence databases, and all hits that reach a curated gathering threshold are classified as members of the protein family. The resulting collection of members is then aligned to the profile HMM to generate a full alignment. -->
+
+<!-- For each family, a manually curated gathering threshold is assigned that maximises the number of true matches to the family while excluding any false positive matches. False positives are estimated by observing overlaps between Pfam family hits that are not from the same clan. This threshold is used to assess whether a match to a family HMM should be included in the protein family. Upon each update of Pfam, gathering thresholds are reassessed to prevent overlaps between new and existing families.[16] -->
+
+<!-- Domains of unknown function -->
+<!-- Domains of unknown function (DUFs) represent a growing fraction of the Pfam database. The families are so named because they have been found to be conserved across species, but perform an unknown role. Each newly added DUF is named in order of addition. Names of these entries are updated as their functions are identified. Normally when the function of at least one protein belonging to a DUF has been determined, the function of the entire DUF is updated and the family is renamed. Some named families are still domains of unknown function, that are named after a representative protein, e.g. YbbR. Numbers of DUFs are expected to continue increasing as conserved sequences of unknown function continue to be identified in sequence data. It is expected that DUFs will eventually outnumber families of known function.[16] -->
+
+<!-- Clans -->
+<!-- Over time both sequence and residue coverage have increased, and as families have grown, more evolutionary relationships have been discovered, allowing the grouping of families into clans.[8] Clans were first introduced to the Pfam database in 2005. They are groupings of related families that share a single evolutionary origin, as confirmed by structural, functional, sequence and HMM comparisons.[5] As of release 29.0, approximately one third of protein families belonged to a clan.[15] This portion has grown to around three-fourths by 2019 (version 32.0).[17] -->
+
+<!-- To identify possible clan relationships, Pfam curators use the Simple Comparison Of Outputs Program (SCOOP) as well as information from the ECOD database.[17] ECOD is a semi-automated hierarchical database of protein families with known structures, with families that map readily to Pfam entries and homology levels that usually map to Pfam clans.[18] -->
+
+<!-- History -->
+<!-- Pfam was founded in 1995 by Erik Sonhammer, Sean Eddy and Richard Durbin as a collection of commonly occurring protein domains that could be used to annotate the protein coding genes of multicellular animals.[6] One of its major aims at inception was to aid in the annotation of the C. elegans genome.[6] The project was partly driven by the assertion in ‘One thousand families for the molecular biologist’ by Cyrus Chothia that there were around 1500 different families of proteins and that the majority of proteins fell into just 1000 of these.[5][19] Counter to this assertion, the Pfam database currently contains 16,306 entries corresponding to unique protein domains and families. However, many of these families contain structural and functional similarities indicating a shared evolutionary origin (see Clans).[5] -->
+
+<!-- A major point of difference between Pfam and other databases at the time of its inception was the use of two alignment types for entries: a smaller, manually checked seed alignment, as well as a full alignment built by aligning sequences to a profile hidden Markov model built from the seed alignment. This smaller seed alignment was easier to update as new releases of sequence databases came out, and thus represented a promising solution to the dilemma of how to keep the database up to date as genome sequencing became more efficient and more data needed to be processed over time. A further improvement to the speed at which the database could be updated came in version 24.0, with the introduction of HMMER3, which is ~100 times faster than HMMER2 and more sensitive.[8] -->
+
+<!-- Because the entries in Pfam-A do not cover all known proteins, an automatically generated supplement was provided called Pfam-B. Pfam-B contained a large number of small families derived from clusters produced by an algorithm called ADDA.[20] Although of lower quality, Pfam-B families could be useful when no Pfam-A families were found. Pfam-B was discontinued as of release 28.0,[21] then reintroduced in release 33.1 using a new clustering algorithm, MMSeqs2.[22] -->
+
+<!-- Pfam was originally hosted on three mirror sites around the world to preserve redundancy. However between 2012 and 2014, the Pfam resource was moved to EMBL-EBI, which allowed for hosting of the website from one domain (xfam.org), using duplicate independent data centres. This allowed for better centralisation of updates, and grouping with other Xfam projects such as Rfam, TreeFam, iPfam and others, whilst retaining critical resilience provided by hosting from multiple centres.[23] -->
+
+<!-- Pfam has undergone a substantial reorganisation over the last two years to further reduce manual effort involved in curation and allow for more frequent updates.[15] -->
+
+<!-- Community curation -->
+<!-- Curation of such a large database presented issues in terms of keeping up with the volume of new families and updated information that needed to be added. To speed up releases of the database, the developers started a number of initiatives to allow greater community involvement in managing the database. -->
+
+<!-- A critical step in improving the pace of updating and improving entries was to open up the functional annotation of Pfam domains to the Wikipedia community in release 26.0.[16] For entries that already had a Wikipedia entry, this was linked into the Pfam page, and for those that did not, the community were invited to create one and inform the curators, in order for it to be linked in. It is anticipated that while community involvement will greatly improve the level of annotation of these families, some will remain insufficiently notable for inclusion in Wikipedia, in which case they will retain their original Pfam description. Some Wikipedia articles cover multiple families, such as the Zinc finger article. An automated procedure for generating articles based on InterPro and Pfam data has also been implemented, which populates a page with information and links to databases as well as available images, then once an article has been reviewed by a curator it is moved from the Sandbox to Wikipedia proper. In order to guard against vandalism of articles, each Wikipedia revision is reviewed by curators before it is displayed on the Pfam website. Almost all cases of vandalism have been corrected by the community before they reach curators, however.[16] -->
+
+<!-- Pfam is run by an international consortium of three groups. In the earlier releases of Pfam, family entries could only be modified at the Cambridge, UK site, limiting the ability of consortium members to contribute to site curation. In release 26.0, developers moved to a new system that allowed registered users anywhere in the world to add or modify Pfam families.[16] -->
+
+
+
+<!-- References -->
+<!-- Finn RD, Tate J, Mistry J, Coggill PC, Sammut SJ, Hotz HR, Ceric G, Forslund K, Eddy SR, Sonnhammer EL, Bateman A (2008). "The Pfam protein families database". Nucleic Acids Res. 36 (Database issue): D281–8. doi:10.1093/nar/gkm960. PMC 2238907. PMID 18039703. -->
+<!-- Finn, R. D.; Mistry, J.; Schuster-Böckler, B.; Griffiths-Jones, S.; Hollich, V.; Lassmann, T.; Moxon, S.; Marshall, M.; Khanna, A.; Durbin, R.; Eddy, S. R.; Sonnhammer, E. L.; Bateman, A. (January 2006). "Pfam: clans, web tools and services" (Free full text). Nucleic Acids Research. 34 (Database issue): D247–D251. doi:10.1093/nar/gkj149. ISSN 0305-1048. PMC 1347511. PMID 16381856. -->
+<!-- Bateman, A.; Coin, L.; Durbin, R.; Finn, R. D.; Hollich, V.; Griffiths-Jones, S.; Khanna, A.; Marshall, M.; Moxon, S.; Sonnhammer, E. L.; Studholme, D. J.; Yeats, C.; Eddy, S. R. (2004). "The Pfam protein families database". Nucleic Acids Research. 32 (Database issue): 138D–1141. doi:10.1093/nar/gkh121. ISSN 0305-1048. PMC 308855. PMID 14681378. open access -->
+<!-- "Pfam 34.0 is released". Xfam Blog. Retrieved 2 July 2021. -->
+<!-- Sammut, Stephen; Finn, Robert D.; Bateman, Alex (2008). "Pfam 10 years on: 10 000 families and still growing". Briefings in Bioinformatics. 9 (3): 210–219. doi:10.1093/bib/bbn010. PMID 18344544. -->
+<!-- Sonnhammer, Erik L.L.; Eddy, Sean R.; Durbin, Richard (1997). "Pfam: A Comprehensive Database of Protein Domain Families Based on Seed Alignments". Proteins. 28 (3): 405–420. doi:10.1002/(sici)1097-0134(199707)28:3<405::aid-prot10>3.0.co;2-l. PMID 9223186. -->
+<!-- Xu, Qifang; Dunbrack, Roland L. (2012). "Assignment of protein sequences to existing domain and family classification systems: Pfam and the PDB". Bioinformatics. 28 (21): 2763–2772. doi:10.1093/bioinformatics/bts533. PMC 3476341. PMID 22942020. -->
+<!-- Finn, R. D.; Mistry, J.; Tate, J.; Coggill, P.; Heger, A.; Pollington, J. E.; Gavin, O. L.; Gunasekaran, P.; Ceric, G.; Forslund, K.; Holm, L.; Sonnhammer, E. L. L.; Eddy, S. R.; Bateman, A. (2009). "The Pfam protein families database". Nucleic Acids Research. 38 (Database): D211–D222. doi:10.1093/nar/gkp985. ISSN 0305-1048. PMC 2808889. PMID 19920124. -->
+<!-- Bateman A, Birney E, Cerruti L, Durbin R, Etwiller L, Eddy SR, Griffiths-Jones S, Howe KL, Marshall M, Sonnhammer EL (2002). "The Pfam protein families database". Nucleic Acids Res. 30 (1): 276–80. doi:10.1093/nar/30.1.276. PMC 99071. PMID 11752314. -->
+<!-- Adams MD, Celniker SE, Holt RA, Evans CA, Gocayne JD, et al. (2000). "The genome sequence of Drosophila melanogaster". Science. 287 (5461): 2185–95. Bibcode:2000Sci...287.2185.. CiteSeerX 10.1.1.549.8639. doi:10.1126/science.287.5461.2185. PMID 10731132. -->
+<!-- Lander, Eric S.; Linton, Lauren M.; Birren, Bruce; Nusbaum, Chad; Zody, Michael C.; et al. (2001). "Initial sequencing and analysis of the human genome". Nature. 409 (6822): 860–921. doi:10.1038/35057062. ISSN 0028-0836. PMID 11237011. -->
+<!-- Finn, Robert D.; Bateman, Alex; Clements, Jody; Coggill, Penelope; Eberhardt, Ruth Y.; Eddy, Sean R.; Heger, Andreas; Hetherington, Kirstie; Holm, Liisa; Mistry, Jaina; Sonnhammer, Erik L. L.; Tate, John; Punta, Marco (2014). "Pfam: the protein families database". Nucleic Acids Research. 42 (D1): D222–D230. doi:10.1093/nar/gkt1223. ISSN 0305-1048. PMC 3965110. PMID 24288371. -->
+<!-- Sonnhammer EL, Eddy SR, Birney E, Bateman A, Durbin R (1998). "Pfam: multiple sequence alignments and HMM-profiles of protein domains". Nucleic Acids Res. 26 (1): 320–2. doi:10.1093/nar/26.1.320. PMC 147209. PMID 9399864. -->
+<!-- Finn, R. D.; Marshall, M.; Bateman, A. (2004). "iPfam: visualization of protein-protein interactions in PDB at domain and amino acid resolutions". Bioinformatics. 21 (3): 410–412. doi:10.1093/bioinformatics/bti011. ISSN 1367-4803. PMID 15353450. -->
+<!-- Finn, Robert D.; Coggill, Penelope; Eberhardt, Ruth Y.; Eddy, Sean R.; Mistry, Jaina; Mitchell, Alex L.; Potter, Simon C.; Punta, Marco; Qureshi, Matloob; Sangrador-Vegas, Amaia; Salazar, Gustavo A.; Tate, John; Bateman, Alex (2016). "The Pfam protein families database: towards a more sustainable future". Nucleic Acids Research. 44 (D1): D279–D285. doi:10.1093/nar/gkv1344. ISSN 0305-1048. PMC 4702930. PMID 26673716. -->
+<!-- Punta, M.; Coggill, P. C.; Eberhardt, R. Y.; Mistry, J.; Tate, J.; Boursnell, C.; Pang, N.; Forslund, K.; Ceric, G.; Clements, J.; Heger, A.; Holm, L.; Sonnhammer, E. L. L.; Eddy, S. R.; Bateman, A.; Finn, R. D. (2011). "The Pfam protein families database". Nucleic Acids Research. 40 (D1): D290–D301. doi:10.1093/nar/gkr1065. ISSN 0305-1048. PMC 3245129. PMID 22127870. -->
+<!-- El-Gebali, Sara; Mistry, Jaina; Bateman, Alex; Eddy, Sean R; Luciani, Aurélien; Potter, Simon C; Qureshi, Matloob; Richardson, Lorna J; Salazar, Gustavo A; Smart, Alfredo; Sonnhammer, Erik L L; Hirsh, Layla; Paladin, Lisanna; Piovesan, Damiano; Tosatto, Silvio C E; Finn, Robert D (8 January 2019). "The Pfam protein families database in 2019". Nucleic Acids Research. 47 (D1): D427–D432. doi:10.1093/nar/gky995. PMC 6324024. PMID 30357350. -->
+<!-- "Evolutionary Classification of Protein Domains". prodata.swmed.edu. Retrieved 18 May 2019. -->
+<!-- Chothia, Cyrus (1992). "One thousand families for the molecular biologist". Nature. 357 (6379): 543–544. Bibcode:1992Natur.357..543C. doi:10.1038/357543a0. ISSN 0028-0836. PMID 1608464. S2CID 4355476. -->
+<!-- Heger, A.; Wilton, C. A.; Sivakumar, A.; Holm, L. (January 2005). "ADDA: a domain database with global coverage of the protein universe" (Free full text). Nucleic Acids Research. 33 (Database issue): D188–D191. doi:10.1093/nar/gki096. ISSN 0305-1048. PMC 540050. PMID 15608174. -->
+<!-- "Pfam 28.0 release notes". Retrieved 30 June 2015. -->
+<!-- "A new Pfam-B is released". Xfam Blog. 30 June 2020. -->
+<!-- "Moving to xfam.org". Retrieved 25 November 2016. -->
+<!-- Dunbrack, Roland. "PDBfam". Fox Chase Cancer Center. Retrieved 9 March 2013. -->
+<!-- Xu, Qifang; Dunbrack, Roland (2012). "Assignment of protein sequences to existing domain and family classification systems: Pfam and the PDB". Bioinformatics. 28 (21): 2763–72. doi:10.1093/bioinformatics/bts533. PMC 3476341. PMID 22942020. -->

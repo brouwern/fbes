@@ -21,7 +21,7 @@ Very short or very similar sequences can be aligned by hand. However, most inter
 Computational approaches to sequence alignment generally fall into two categories: **global alignments** and **local alignments**. Calculating a global alignment is a form of global optimization that "forces" the alignment to span the *entire* length of all sequences. By contrast, local alignments identify regions of similarity within long sequences that are often widely divergent overall. Local alignments are often preferable, but can be more difficult to calculate because of the additional challenge of identifying isolated regions of high similarity (4).  BLAST searches are an example of local alignment.
 
 
-## Representations
+### Representations
 
 Alignments are commonly represented both graphically and in text format. In almost all sequence alignment representations, sequences are written in rows arranged so that aligned residues appear in successive columns.
 

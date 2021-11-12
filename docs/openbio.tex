@@ -115,7 +115,7 @@
 
 \title{Foundations of Biology and Environmental Science: An Open-Access Encyclepedia}
 \author{Compiled and edited by Nathan Brouwer}
-\date{2021-11-11}
+\date{2021-11-12}
 
 \begin{document}
 \maketitle
@@ -257,7 +257,7 @@ The relationship between clades can be described in several ways:
 \href{https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Primate_cladogram.svg/556px-Primate_cladogram.svg.png}{\includegraphics{openbio_files/figure-latex/unnamed-chunk-3-1.pdf}}
 
 \hypertarget{in-popular-culture}{%
-\section{In popular culture}\label{in-popular-culture}}
+\subsection{In popular culture}\label{in-popular-culture}}
 
 An episode of \href{https://en.wikipedia.org/wiki/Elementary_(TV_series)}{Elementary} is titled ``\href{https://en.wikipedia.org/wiki/List_of_Elementary_episodes\#ep38}{Dead Clade Walking}'' and deals with a case involving a rare fossil.
 
@@ -615,31 +615,31 @@ An \textbf{intrinsically disordered protein} (IDP) is a protein that lacks a fix
 The discovery of IDPs offers support against the idea that three-dimensional structures of proteins must be fixed to accomplish their biological functions. The dogma of rigid protein structure has been questioned due to the increasing evidence of dynamics being necessary for the protein machines. Despite their lack of stable structure, IDPs are a very large and functionally important class of proteins. Many IDPs can adopt a fixed three-dimensional structure after binding to other macromolecules. Overall, IDPs are different from structured proteins in many ways and tend to have distinctive function, structure, sequence, interactions, evolution and regulation (6).
 
 \hypertarget{abundance}{%
-\section{Abundance}\label{abundance}}
+\subsection{Abundance}\label{abundance}}
 
 It is now generally accepted that proteins exist as an ensemble of similar structures with some regions more constrained than others. IDPs occupy the extreme end of this spectrum of flexibility.
 
 Bioinformatic predictions indicated that intrinsic disorder is more common in genomes and proteomes than in known structures in the protein database. Based on DISOPRED2 prediction, long (\textgreater30 residue) disordered segments occur in 2.0\% of archaean, 4.2\% of eubacterial and 33.0\% of eukaryotic proteins (10) including certain disease-related proteins (11).
 
 \hypertarget{disorder-annotation}{%
-\section{Disorder annotation}\label{disorder-annotation}}
+\subsection{Disorder annotation}\label{disorder-annotation}}
 
 Intrinsic disorder can be either annotated from experimental information or predicted with specialized software. Disorder prediction algorithms can predict Intrinsic Disorder (ID) propensity with high accuracy (approaching around 80\%) based on primary sequence composition, similarity to unassigned segments in protein x-ray datasets, flexible regions in NMR studies and physico-chemical properties of amino acids.
 
 \hypertarget{disorder-databases}{%
-\section{Disorder databases}\label{disorder-databases}}
+\subsection{Disorder databases}\label{disorder-databases}}
 
 Databases have been established to annotate protein sequences with intrinsic disorder information. The \textbf{DisProt database} contains a collection of \textbf{manually curated} protein segments which have been experimentally determined to be disordered. MobiDB is a database combining experimentally curated disorder annotations (e.g.~from DisProt) with data derived from missing residues in X-ray crystallographic structures and flexible regions in NMR structures.
 
 \hypertarget{predicting-idps-by-sequence}{%
-\section{Predicting IDPs by sequence}\label{predicting-idps-by-sequence}}
+\subsection{Predicting IDPs by sequence}\label{predicting-idps-by-sequence}}
 
 Separating disordered from ordered proteins is essential for disorder prediction. One of the first steps to find a factor that distinguishes IDPs from non-IDPs is to specify biases within the amino acid composition. The hydrophilic, charged amino acids (A, R, G, Q, S, P, E and K) have been characterized as disorder-promoting amino acids, while order-promoting amino acids (W, C, F, I, Y, V, L, and N) are hydrophobic and uncharged. The remaining amino acids (H, M, T and D) are ambiguous, found in both ordered and unstructured regions (2). A more recent analysis ranked amino acids by their propensity to form disordered regions as follows (order promoting to disorder promoting): W, F, Y, I, M, L, V, N, C, T, A, G, R, D, H, Q, K, S, E, P (43).
 
 This information is the basis of most sequence-based predictors. Regions with little to no secondary structure, also known as NORS (NO Regular Secondary structure) regions (44) and low-complexity regions can easily be detected. However, not all disordered proteins contain such low complexity sequences.
 
 \hypertarget{prediction-methods}{%
-\section{Prediction methods}\label{prediction-methods}}
+\subsection{Prediction methods}\label{prediction-methods}}
 
 Determining disordered regions from lab methods is very costly and time-consuming. Due to the variable nature of IDPs, only certain aspects of their structure can be detected, so that a full characterization requires a large number of different methods and experiments. This further increases the expense of IDP determination. In order to overcome this obstacle, computer-based methods are created for predicting protein structure and function. It is one of the main goals of bioinformatics to derive knowledge by prediction. Predictors for IDP function are also being developed, but mainly use structural information such as linear motif sites (4, 45). There are different approaches for predicting IDP structure, such as neural networks or matrix calculations, based on different structural and/or biophysical properties.
 
@@ -648,7 +648,7 @@ Many computational methods exploit sequence information to predict whether a pro
 Due to the different approaches of predicting disordered proteins, estimating their relative accuracy is fairly difficult. For example, neural networks are often trained on different datasets. The disorder prediction category is a part of biannual CASP experiment that is designed to test methods according accuracy in finding regions with missing 3D structure (marked in PDB files as REMARK465, missing electron densities in X-ray structures).
 
 \hypertarget{disorder-and-disease}{%
-\section{Disorder and disease}\label{disorder-and-disease}}
+\subsection{Disorder and disease}\label{disorder-and-disease}}
 
 \textbf{This section optional}
 
@@ -1308,6 +1308,54 @@ Image: \url{https://www.genome.gov/sites/default/files/media/images/2021-01/poly
 
 \href{https://www.genome.gov/staff/Leslie-G-Biesecker-MD}{Leslie G. Biesecker}, M.D.
 
+\hypertarget{protein-data-bank}{%
+\section{Protein Data Bank}\label{protein-data-bank}}
+
+Adapated from Wikipedia
+
+The Protein Data Bank (PDB){[}1{]} is a database for the three-dimensional structural data of large biological molecules, such as proteins and nucleic acids. The data, typically obtained by \textbf{X-ray crystallography}, NMR spectroscopy, or, increasingly, cryo-electron microscopy, and submitted by biologists and biochemists from around the world, are freely accessible on the Internet via the websites of its member organisations (PDBe,{[}2{]} PDBj,{[}3{]} RCSB,{[}4{]} and BMRB{[}5{]}).
+
+The PDB is a key in areas of structural biology, such as structural genomics. Most major scientific journals and some funding agencies now require scientists to submit their structure data to the PDB. Many other databases use protein structures deposited in the PDB. For example, SCOP and CATH classify protein structures, while PDBsum provides a graphic overview of PDB entries using information from other sources, such as Gene ontology.{[}6, 7{]}
+
+Most structures are determined by X-ray diffraction, but about 10\% of structures are determined by protein NMR. When using X-ray diffraction, approximations of the coordinates of the atoms of the protein are obtained, whereas using NMR, the distance between pairs of atoms of the protein is estimated. The final conformation of the protein is obtained from NMR by solving a distance geometry problem. After 2013, a growing number of proteins are determined by cryo-electron microscopy. Clicking on the numbers in the linked external table displays examples of structures determined by that method.
+
+Historically, the number of structures in the PDB has grown at an approximately exponential rate, with 100 registered structures in 1982, 1,000 structures in 1993, 10,000 in 1999, and 100,000 in 2014.{[}19, 20{]}
+
+\hypertarget{history}{%
+\subsection{History}\label{history}}
+
+** OPTIONAL **
+
+Two forces converged to initiate the PDB: a small but growing collection of sets of protein structure data determined by X-ray diffraction; and the newly available (1968) molecular graphics display, the Brookhaven RAster Display (BRAD), to visualize these protein structures in 3-D. In 1969, with the sponsorship of Walter Hamilton at the Brookhaven National Laboratory, Edgar Meyer (Texas A\&M University) began to write software to store atomic coordinate files in a common format to make them available for geometric and graphical evaluation. By 1971, one of Meyer's programs, SEARCH, enabled researchers to remotely access information from the database to study protein structures offline.{[}8{]} SEARCH was instrumental in enabling networking, thus marking the functional beginning of the PDB.
+
+The Protein Data Bank was announced in October 1971 in Nature New Biology{[}9{]} as a joint venture between Cambridge Crystallographic Data Centre, UK and Brookhaven National Laboratory, US.
+
+Upon Hamilton's death in 1973, Tom Koeztle took over direction of the PDB for the subsequent 20 years. In January 1994, Joel Sussman of Israel's Weizmann Institute of Science was appointed head of the PDB. In October 1998,{[}10{]} the PDB was transferred to the Research Collaboratory for Structural Bioinformatics (RCSB);{[}11{]} the transfer was completed in June 1999. The new director was Helen M. Berman of Rutgers University (one of the managing institutions of the RCSB, the other being the San Diego Supercomputer Center at UC San Diego).{[}12{]} In 2003, with the formation of the wwPDB, the PDB became an international organization. The founding members are PDBe (Europe),{[}2{]} RCSB (USA), and PDBj (Japan).{[}3{]} The BMRB{[}5{]} joined in 2006. Each of the four members of wwPDB can act as deposition, data processing and distribution centers for PDB data. The data processing refers to the fact that wwPDB staff review and annotate each submitted entry.{[}13{]} The data are then automatically checked for plausibility (the source code{[}14{]} for this validation software has been made available to the public at no charge).
+
+For PDB structures determined by X-ray diffraction that have a structure factor file, their electron density map may be viewed. The data of such structures is stored on the ``electron density server''.{[}17, 18{]}
+
+\hypertarget{file-format}{%
+\subsection{File format}\label{file-format}}
+
+\textbf{OPTIONAL}
+The file format initially used by the PDB was called the PDB file format. The original format was restricted by the width of computer punch cards to 80 characters per line. Around 1996, the ``macromolecular Crystallographic Information file'' format, mmCIF, which is an extension of the CIF format was phased in. mmCIF became the standard format for the PDB archive in 2014.{[}21{]} In 2019, the wwPDB announced that depositions for crystallographic methods would only be accepted in mmCIF format.{[}22{]}
+
+An XML version of PDB, called PDBML, was described in 2005.{[}23{]} The structure files can be downloaded in any of these three formats, though an increasing number of structures do not fit the legacy PDB format. Individual files are easily downloaded into graphics packages from Internet URLs:
+
+\hypertarget{pfam}{%
+\section{PFam}\label{pfam}}
+
+Adapted from Wikipedia.
+
+Pfam is a database of \textbf{protein families} that includes their annotations and multiple sequence alignments generated using bioinformatics tools known as hidden Markov models (HMM; 1, 2, 3. The most recent version, Pfam 34.0, was released in March 2021 and contains 19,179 families (4).
+
+\hypertarget{uses}{%
+\subsection{Uses}\label{uses}}
+
+The general purpose of the Pfam database is to provide a complete and accurate classification of protein families and domains.{[}5{]} Originally, the rationale behind creating the database was to have a semi-automated method of curating information on known protein families to improve the efficiency of annotating genomes.{[}6{]} The Pfam classification of protein families has been widely adopted by biologists because of its wide coverage of proteins and sensible naming conventions.{[}7{]}
+
+It is used by experimental biologists researching specific proteins, by structural biologists to identify new targets for structure determination, by computational biologists to organise sequences and by evolutionary biologists tracing the origins of proteins.{[}8{]} Early genome projects, such as human and fly used Pfam extensively for functional annotation of genomic data.{[}9, 10, 11{]}
+
 \hypertarget{talking-glossary-phenotype}{%
 \section{Talking Glossary: Phenotype}\label{talking-glossary-phenotype}}
 
@@ -1560,7 +1608,7 @@ Very short or very similar sequences can be aligned by hand. However, most inter
 Computational approaches to sequence alignment generally fall into two categories: \textbf{global alignments} and \textbf{local alignments}. Calculating a global alignment is a form of global optimization that ``forces'' the alignment to span the \emph{entire} length of all sequences. By contrast, local alignments identify regions of similarity within long sequences that are often widely divergent overall. Local alignments are often preferable, but can be more difficult to calculate because of the additional challenge of identifying isolated regions of high similarity (4). BLAST searches are an example of local alignment.
 
 \hypertarget{representations}{%
-\section{Representations}\label{representations}}
+\subsection{Representations}\label{representations}}
 
 Alignments are commonly represented both graphically and in text format. In almost all sequence alignment representations, sequences are written in rows arranged so that aligned residues appear in successive columns.
 
@@ -2013,7 +2061,7 @@ The following reading discusses what biologists mean when we use the terms taxa,
 * Non-monophyletic group
 
 \hypertarget{what-is-a-taxon}{%
-\section{What is a ``taxon''}\label{what-is-a-taxon}}
+\subsection{What is a ``taxon''}\label{what-is-a-taxon}}
 
 \textbf{Taxon} and \textbf{clade} refer to different kinds of biological groups. \textbf{Taxa} is the plural of \textbf{taxon}. A taxon (or \textbf{taxonomic group}) can refer to any species \emph{or} group of species. Humans, \emph{Homo sapiens}, is a taxon. We are the genus \emph{Homo}, a larger taxon composed of humans and our close relatives, including Neanderthals (genus: \emph{Homo}, species: \emph{Homo neanderthalensis}). We are part of the \textbf{family} Hominidae, a larger taxon which includes us, chimps and bonobos (genus \emph{Pan}), gorillas (genus \emph{Gorilla}), and orangutans (genus \emph{Pongo}). All primates are part of an \textbf{order}, which includes all the taxa mentioned previously as well as taxa such as monkeys, gibbons, and lemurs. We can say all primates considered together are taxon (a group of species), which is composed of many taxa (many individual species).
 
@@ -2040,7 +2088,7 @@ For example, the taxonomic group \textbf{reptiles} includes lizards, snakes, cro
 One key point is that ``taxa'' and ``taxon'' do not have to refer to the species level - it could refer to subspecies, populations, or other levels of the hierarchy of biological classification. It is most commonly used in reference to the level of species, but this isn't necessary.
 
 \hypertarget{what-is-a-clade}{%
-\section{What is a clade?}\label{what-is-a-clade}}
+\subsection{What is a clade?}\label{what-is-a-clade}}
 
 In contrast to taxon and taxa, \textbf{clade} has a very specific meaning - a clade is \textbf{all} of the taxa that descended from a common ancestor, \emph{plus} the common ancestor. Clade is synonymous with \textbf{monophyletic group}. If you exclude one of the taxa that descended from a common ancestor you end up with what is called a \textbf{non-monophyletic group}. ``Reptiles'' and ``fish'' are taxonomic groups (taxa) that are not clades because they don't contain all of the descendants of their common ancestor and therefore are not evolutionarily coherent.
 
@@ -2059,7 +2107,7 @@ In contrast to taxon and taxa, \textbf{clade} has a very specific meaning - a cl
 \end{itemize}
 
 \hypertarget{further-reading}{%
-\section{Further Reading:}\label{further-reading}}
+\subsection{Further Reading:}\label{further-reading}}
 
 For more on clades: \url{http://en.wikipedia.org/wiki/Clade}
 For more on taxa: \url{https://en.wikipedia.org/wiki/Taxon}
@@ -2104,6 +2152,31 @@ Photograph: \url{https://www.nigms.nih.gov/about/PublishingImages/headshots/head
 
 \hypertarget{u}{%
 \chapter{U}\label{u}}
+
+\hypertarget{uniprot}{%
+\section{Uniprot}\label{uniprot}}
+
+Adapated from Wikipedia, the free encyclopedia
+
+UniProt (www.uniprot.org/) is a freely accessible database of protein sequence and functional information, many entries being derived from genome sequencing projects. It contains a large amount of information about the biological function of proteins derived from the research literature. It is maintained by the UniProt consortium, which consists of several European bioinformatics organisations and a foundation from Washington, DC, United States.
+
+\hypertarget{the-uniprot-consortium}{%
+\subsection{The UniProt consortium}\label{the-uniprot-consortium}}
+
+\textbf{OPTIONAL}
+
+The UniProt consortium comprises the European Bioinformatics Institute (EBI), the Swiss Institute of Bioinformatics (SIB), and the Protein Information Resource (PIR). EBI, located at the Wellcome Trust Genome Campus in Hinxton, UK, hosts a large resource of bioinformatics databases and services. SIB, located in Geneva, Switzerland, maintains the ExPASy (Expert Protein Analysis System) servers that are a central resource for proteomics tools and databases. PIR, hosted by the National Biomedical Research Foundation (NBRF) at the Georgetown University Medical Center in Washington, DC, US, is heir to the oldest protein sequence database, Margaret Dayhoff's Atlas of Protein Sequence and Structure, first published in 1965.{[}2{]} In 2002, EBI, SIB, and PIR joined forces as the UniProt consortium.{[}3{]}
+
+\hypertarget{the-roots-of-uniprot-databases}{%
+\subsection{The roots of UniProt databases}\label{the-roots-of-uniprot-databases}}
+
+\textbf{OPTIONAL}
+
+Each consortium member is heavily involved in protein database maintenance and annotation. Until recently, EBI and SIB together produced the Swiss-Prot and TrEMBL databases, while PIR produced the Protein Sequence Database (PIR-PSD).{[}4{]}{[}5{]}{[}6{]} These databases coexisted with differing protein sequence coverage and annotation priorities.
+
+Swiss-Prot was created in 1986 by Amos Bairoch during his PhD and developed by the Swiss Institute of Bioinformatics and subsequently developed by Rolf Apweiler at the European Bioinformatics Institute.{[}7{]}{[}8{]}{[}9{]} Swiss-Prot aimed to provide reliable protein sequences associated with a high level of annotation (such as the description of the function of a protein, its domain structure, post-translational modifications, variants, etc.), a minimal level of redundancy and high level of integration with other databases. Recognizing that sequence data were being generated at a pace exceeding Swiss-Prot's ability to keep up, TrEMBL (Translated EMBL Nucleotide Sequence Data Library) was created to provide automated annotations for those proteins not in Swiss-Prot. Meanwhile, PIR maintained the PIR-PSD and related databases, including iProClass, a database of protein sequences and curated families.
+
+The consortium members pooled their overlapping resources and expertise, and launched UniProt in December 2003.{[}10{]}
 
 \hypertarget{v}{%
 \chapter{V}\label{v}}

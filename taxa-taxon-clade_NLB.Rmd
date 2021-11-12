@@ -19,7 +19,7 @@ The following reading discusses what biologists mean when we use the terms taxa,
 * Monophyletic group
 * Non-monophyletic group
  
-## What is a “taxon”
+### What is a “taxon”
 
 **Taxon** and **clade** refer to different kinds of biological groups.  **Taxa** is the plural of **taxon**.  A taxon (or **taxonomic group**) can refer to any species *or* group of species.  Humans, *Homo sapiens*, is a taxon.  We are the genus *Homo*, a larger taxon composed of humans and our close relatives, including Neanderthals (genus: *Homo*, species: *Homo neanderthalensis*).  We are part of the **family** Hominidae, a larger taxon which includes us, chimps and bonobos (genus *Pan*), gorillas (genus *Gorilla*), and orangutans (genus *Pongo*).  All primates are part of an **order**, which includes all the taxa mentioned previously as well as taxa such as monkeys, gibbons, and lemurs.  We can say all primates considered together are taxon (a group of species), which is composed of many taxa (many individual species).  
 
@@ -38,7 +38,7 @@ For example, the taxonomic group **reptiles** includes lizards, snakes, crocodil
 
 One key point is that "taxa" and "taxon" do not have to refer to the species level - it could refer to subspecies, populations, or other levels of the hierarchy of biological classification.  It is most commonly used in reference to the level of species, but this isn’t necessary.
 
-## What is a clade?
+### What is a clade?
 
 In contrast to taxon and taxa, **clade** has a very specific meaning - a clade is **all** of the taxa that descended from a common ancestor, *plus* the common ancestor.  Clade is synonymous with **monophyletic group**.  If you exclude one of the taxa that descended from a common ancestor you end up with what is called a **non-monophyletic group**.  “Reptiles” and “fish” are taxonomic groups (taxa) that are not clades because they don’t contain all of the descendants of their common ancestor and therefore are not evolutionarily coherent.
 
@@ -55,7 +55,7 @@ In contrast to taxon and taxa, **clade** has a very specific meaning - a clade i
 
  
 
-## Further Reading: 
+### Further Reading: 
 
 For more on clades: [http://en.wikipedia.org/wiki/Clade](http://en.wikipedia.org/wiki/Clade)
 For more on taxa: [https://en.wikipedia.org/wiki/Taxon](https://en.wikipedia.org/wiki/Taxon)
