@@ -1,5 +1,5 @@
 --- 
-title: "Foundations of Biology and Environmental Science: An Open-Access Encyclepedia"
+title: "Foundations of Biology and Environmental Science: An Open-Access Encyclopedia"
 author: "Compiled and edited by Nathan Brouwer"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -11,3 +11,5 @@ description: "A collection of open-access and/or free resources on biology and e
 ---
 
 # Introduction
+
+This website is a compilation of materials open-access and/or free materials on biology, bioinformatics, and environmental science.  Most of the pages are entries pages from Wikipedia or entries from the NHGRI's [Talking Glossary](https://www.genome.gov/genetics-glossary) (https://www.genome.gov/genetics-glossary).  Some entries are from other sources, and I've contributed a things I've written myself.
